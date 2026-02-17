@@ -84,7 +84,7 @@ class config_maker:
         j.write("\t\t\t\t\"AT_GRADE\": "+str(train.mult[3])+",\n")
         j.write("\t\t\t\t\"ELEVATED\": "+str(train.mult[4])+"\n")
         j.write("\t\t\t},\n")
-        j.write("\t\t\t\"compatibleTrackTypes\": [\""+str(train.id)+"\"]")
+        j.write("\t\t\t\"compatibleTrackTypes\": [\""+str(train.id)+"\"],\n")
         # j.write("\t\t\t\"compatibleTrackTypes\": [\""+str(train.id)+"\", ")
         # i = 0
         # for c in train.track_types:

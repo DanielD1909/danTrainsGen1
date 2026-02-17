@@ -34,7 +34,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["R211 (NYC)"]			"appearance": { "color": "#007EC6"},
+			"compatibleTrackTypes": ["R211 (NYC)"],
+			"appearance": { "color": "#007EC6"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -76,7 +77,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["R188 (NYC)"]			"appearance": { "color": "#AF378B"},
+			"compatibleTrackTypes": ["R188 (NYC)"],
+			"appearance": { "color": "#AF378B"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -118,7 +120,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["M9 (LIRR)"]			"appearance": { "color": "#0039A6"},
+			"compatibleTrackTypes": ["M9 (LIRR)"],
+			"appearance": { "color": "#0039A6"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -160,7 +163,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["DM30-C3 (LIRR)"]			"appearance": { "color": "#03B8A9"},
+			"compatibleTrackTypes": ["DM30-C3 (LIRR)"],
+			"appearance": { "color": "#03B8A9"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -202,7 +206,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["R179 (NYC)"]			"appearance": { "color": "#A7752A"},
+			"compatibleTrackTypes": ["R179 (NYC)"],
+			"appearance": { "color": "#A7752A"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -244,7 +249,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["NJT LRV-3"]			"appearance": { "color": "#E06C9E"},
+			"compatibleTrackTypes": ["NJT LRV-3"],
+			"appearance": { "color": "#E06C9E"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -286,7 +292,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["NJT LRV-5"]			"appearance": { "color": "#FF7CB5"},
+			"compatibleTrackTypes": ["NJT LRV-5"],
+			"appearance": { "color": "#FF7CB5"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -328,7 +335,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["R142A/PA5"]			"appearance": { "color": "#0095D3"},
+			"compatibleTrackTypes": ["R142A/PA5"],
+			"appearance": { "color": "#0095D3"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -370,7 +378,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["ADtranz M4"]			"appearance": { "color": "#1C9AD6"},
+			"compatibleTrackTypes": ["ADtranz M4"],
+			"appearance": { "color": "#1C9AD6"},
 			"isFixed": false,
 			"location": {
 				"city": ["Philadelphia"],
@@ -412,7 +421,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["S70 Streetcar"]			"appearance": { "color": "#01235E"},
+			"compatibleTrackTypes": ["S70 Streetcar"],
+			"appearance": { "color": "#01235E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Atlanta","Los Angeles","Salt Lake City","Charlotte"],
@@ -454,7 +464,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["S700"]			"appearance": { "color": "#008244"},
+			"compatibleTrackTypes": ["S700"],
+			"appearance": { "color": "#008244"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Seattle","Portland (OR)","Salt Lake City","Houston","Twin Cities (MN)","Phoenix"],
@@ -496,7 +507,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["S700-US"]			"appearance": { "color": "#EE2621"},
+			"compatibleTrackTypes": ["S700-US"],
+			"appearance": { "color": "#EE2621"},
 			"isFixed": false,
 			"location": {
 				"city": ["San Diego"],
@@ -538,7 +550,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["SEPTA BIV"]			"appearance": { "color": "#F26100"},
+			"compatibleTrackTypes": ["SEPTA BIV"],
+			"appearance": { "color": "#F26100"},
 			"isFixed": false,
 			"location": {
 				"city": ["Philadelphia"],
@@ -580,7 +593,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["GTW 2/6 (NJT)"]			"appearance": { "color": "#1E2171"},
+			"compatibleTrackTypes": ["GTW 2/6 (NJT)"],
+			"appearance": { "color": "#1E2171"},
 			"isFixed": false,
 			"location": {
 				"city": ["Philadelphia"],
@@ -622,7 +636,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["7000 Series (WSH)"]			"appearance": { "color": "#231F20"},
+			"compatibleTrackTypes": ["7000 Series (WSH)"],
+			"appearance": { "color": "#231F20"},
 			"isFixed": false,
 			"location": {
 				"city": ["Washington D.C."],
@@ -635,7 +650,7 @@
 		"US-100 (WSH)": {
 			"id": "US-100 (WSH)",
 			"name": "US-100 (WSH)",
-			"description": "The United Streetcar 100 is a articulated low-floor streetcar built via licensing the Škoda 10T. It has been in service with the 750V LRV (CAT|UN) since 2016. Capacity is artificially higher due to game processing requirements.",
+			"description": "The United Streetcar 100 is a articulated low-floor streetcar built via licensing the ï¿½koda 10T. It has been in service with the 750V LRV (CAT|UN) since 2016. Capacity is artificially higher due to game processing requirements.",
 			"allowAtGradeRoadCrossing": true,
 			"stats": {
 				"maxAcceleration": 1.34,
@@ -664,14 +679,15 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["US-100 (WSH)"]			"appearance": { "color": "#EF2E31"},
+			"compatibleTrackTypes": ["US-100 (WSH)"],
+			"appearance": { "color": "#EF2E31"},
 			"isFixed": false,
 			"location": {
 				"city": ["Washington D.C.","Portland (OR)"],
 				"country": ["United States of America","United States of America"],
 				"continent": ["North America","North America"],
 			},
-			"manufacturer": ["Škoda"],
+			"manufacturer": ["ï¿½koda"],
 			"tag": ["Standard LRT"]
 		},
 		"HHP8-BMLC": {
@@ -706,7 +722,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["HHP8-BMLC"]			"appearance": { "color": "#004F98"},
+			"compatibleTrackTypes": ["HHP8-BMLC"],
+			"appearance": { "color": "#004F98"},
 			"isFixed": false,
 			"location": {
 				"city": ["Washington D.C.","Baltimore"],
@@ -748,7 +765,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["SC-BMLC"]			"appearance": { "color": "#F26F21"},
+			"compatibleTrackTypes": ["SC-BMLC"],
+			"appearance": { "color": "#F26F21"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","New York City","Washington D.C.","Montreal","San Diego","Baltimore"],
@@ -790,7 +808,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["CTA 5000 Series"]			"appearance": { "color": "#009DDC"},
+			"compatibleTrackTypes": ["CTA 5000 Series"],
+			"appearance": { "color": "#009DDC"},
 			"isFixed": false,
 			"location": {
 				"city": ["Chicago"],
@@ -832,7 +851,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["CTA 3200 Series"]			"appearance": { "color": "#F06EA9"},
+			"compatibleTrackTypes": ["CTA 3200 Series"],
+			"appearance": { "color": "#F06EA9"},
 			"isFixed": false,
 			"location": {
 				"city": ["Chicago"],
@@ -874,7 +894,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Highliner 2"]			"appearance": { "color": "#0054A4"},
+			"compatibleTrackTypes": ["Highliner 2"],
+			"appearance": { "color": "#0054A4"},
 			"isFixed": false,
 			"location": {
 				"city": ["Chicago"],
@@ -916,7 +937,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["MPX-6000 Series"]			"appearance": { "color": "#ED1C24"},
+			"compatibleTrackTypes": ["MPX-6000 Series"],
+			"appearance": { "color": "#ED1C24"},
 			"isFixed": false,
 			"location": {
 				"city": ["Chicago"],
@@ -958,7 +980,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["FLIRT Akku"]			"appearance": { "color": "#0B3F75"},
+			"compatibleTrackTypes": ["FLIRT Akku"],
+			"appearance": { "color": "#0B3F75"},
 			"isFixed": false,
 			"location": {
 				"city": ["Chicago"],
@@ -1000,7 +1023,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["2024 Stock (LDN)"]			"appearance": { "color": "#1B3F94"},
+			"compatibleTrackTypes": ["2024 Stock (LDN)"],
+			"appearance": { "color": "#1B3F94"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -1042,7 +1066,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["1972 Stock (LDN)"]			"appearance": { "color": "#B05F0F"},
+			"compatibleTrackTypes": ["1972 Stock (LDN)"],
+			"appearance": { "color": "#B05F0F"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -1084,7 +1109,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["1973 Stock (LDN)"]			"appearance": { "color": "#122B63"},
+			"compatibleTrackTypes": ["1973 Stock (LDN)"],
+			"appearance": { "color": "#122B63"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -1126,7 +1152,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["1992 Stock (LDN)"]			"appearance": { "color": "#E02525"},
+			"compatibleTrackTypes": ["1992 Stock (LDN)"],
+			"appearance": { "color": "#E02525"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -1168,7 +1195,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["1996 Stock (LDN)"]			"appearance": { "color": "#7B848B"},
+			"compatibleTrackTypes": ["1996 Stock (LDN)"],
+			"appearance": { "color": "#7B848B"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -1210,7 +1238,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["2009 Stock (LDN)"]			"appearance": { "color": "#0C9FDC"},
+			"compatibleTrackTypes": ["2009 Stock (LDN)"],
+			"appearance": { "color": "#0C9FDC"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -1252,7 +1281,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["S Stock (LDN)"]			"appearance": { "color": "#FECE08"},
+			"compatibleTrackTypes": ["S Stock (LDN)"],
+			"appearance": { "color": "#FECE08"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -1294,7 +1324,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 378"]			"appearance": { "color": "#F9A51B"},
+			"compatibleTrackTypes": ["BR Class 378"],
+			"appearance": { "color": "#F9A51B"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -1336,7 +1367,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 710"]			"appearance": { "color": "#566366"},
+			"compatibleTrackTypes": ["BR Class 710"],
+			"appearance": { "color": "#566366"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -1378,7 +1410,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["FE-10 (MXC)"]			"appearance": { "color": "#B0A32A"},
+			"compatibleTrackTypes": ["FE-10 (MXC)"],
+			"appearance": { "color": "#B0A32A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Mexico City"],
@@ -1420,7 +1453,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["NM-16 (MXC)"]			"appearance": { "color": "#F04E98"},
+			"compatibleTrackTypes": ["NM-16 (MXC)"],
+			"appearance": { "color": "#F04E98"},
 			"isFixed": false,
 			"location": {
 				"city": ["Mexico City"],
@@ -1430,10 +1464,10 @@
 			"manufacturer": ["CAF"],
 			"tag": ["Rubber Metro"]
 		},
-		"Cuautitlán-Buenavista": {
-			"id": "Cuautitlán-Buenavista",
-			"name": "Cuautitlán-Buenavista",
-			"description": "The Cuautitlán-Buenavista is a commuter rail EMU built by CAF used on Mexico City's Tren Suburbano that entered service in 2008. ",
+		"Cuautitlï¿½n-Buenavista": {
+			"id": "Cuautitlï¿½n-Buenavista",
+			"name": "Cuautitlï¿½n-Buenavista",
+			"description": "The Cuautitlï¿½n-Buenavista is a commuter rail EMU built by CAF used on Mexico City's Tren Suburbano that entered service in 2008. ",
 			"allowAtGradeRoadCrossing": true,
 			"stats": {
 				"maxAcceleration": 1.0,
@@ -1462,7 +1496,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Cuautitlán-Buenavista"]			"appearance": { "color": "#BE1C00"},
+			"compatibleTrackTypes": ["Cuautitlï¿½n-Buenavista"],
+			"appearance": { "color": "#BE1C00"},
 			"isFixed": false,
 			"location": {
 				"city": ["Mexico City"],
@@ -1504,7 +1539,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["TE-90"]			"appearance": { "color": "#0055B8"},
+			"compatibleTrackTypes": ["TE-90"],
+			"appearance": { "color": "#0055B8"},
 			"isFixed": false,
 			"location": {
 				"city": ["Mexico City"],
@@ -1546,7 +1582,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Toronto Rocket"]			"appearance": { "color": "#DA251D"},
+			"compatibleTrackTypes": ["Toronto Rocket"],
+			"appearance": { "color": "#DA251D"},
 			"isFixed": false,
 			"location": {
 				"city": ["Toronto"],
@@ -1588,7 +1625,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["NST (TOR)"]			"appearance": { "color": "#C9251E"},
+			"compatibleTrackTypes": ["NST (TOR)"],
+			"appearance": { "color": "#C9251E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Toronto"],
@@ -1630,7 +1668,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["T-1 (TOR)"]			"appearance": { "color": "#16A753"},
+			"compatibleTrackTypes": ["T-1 (TOR)"],
+			"appearance": { "color": "#16A753"},
 			"isFixed": false,
 			"location": {
 				"city": ["Toronto"],
@@ -1672,7 +1711,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Flexity Outlook (TOR)"]			"appearance": { "color": "#FFFFFF"},
+			"compatibleTrackTypes": ["Flexity Outlook (TOR)"],
+			"appearance": { "color": "#FFFFFF"},
 			"isFixed": false,
 			"location": {
 				"city": ["Toronto"],
@@ -1714,7 +1754,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Flexity Freedom-3"]			"appearance": { "color": "#F87005"},
+			"compatibleTrackTypes": ["Flexity Freedom-3"],
+			"appearance": { "color": "#F87005"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -1756,7 +1797,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Flexity Freedom-5"]			"appearance": { "color": "#8A999A"},
+			"compatibleTrackTypes": ["Flexity Freedom-5"],
+			"appearance": { "color": "#8A999A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Toronto","Waterloo (CA)"],
@@ -1798,7 +1840,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Flexity Freedom-7"]			"appearance": { "color": "#0591DC"},
+			"compatibleTrackTypes": ["Flexity Freedom-7"],
+			"appearance": { "color": "#0591DC"},
 			"isFixed": false,
 			"location": {
 				"city": ["Edmonton"],
@@ -1840,7 +1883,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Citadis Spirit-4"]			"appearance": { "color": "#ED1B2D"},
+			"compatibleTrackTypes": ["Citadis Spirit-4"],
+			"appearance": { "color": "#ED1B2D"},
 			"isFixed": false,
 			"location": {
 				"city": ["Toronto","Ottawa","Quebec City"],
@@ -1882,7 +1926,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Citadis Spirit-3"]			"appearance": { "color": "#FF1E35"},
+			"compatibleTrackTypes": ["Citadis Spirit-3"],
+			"appearance": { "color": "#FF1E35"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -1924,7 +1969,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Citadis Spirit-5"]			"appearance": { "color": "#8E111F"},
+			"compatibleTrackTypes": ["Citadis Spirit-5"],
+			"appearance": { "color": "#8E111F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -1966,7 +2012,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Azur (MTL)"]			"appearance": { "color": "#0085CA"},
+			"compatibleTrackTypes": ["Azur (MTL)"],
+			"appearance": { "color": "#0085CA"},
 			"isFixed": false,
 			"location": {
 				"city": ["Montreal"],
@@ -1979,7 +2026,7 @@
 		"Saint-Laurent (MTL)": {
 			"id": "Saint-Laurent (MTL)",
 			"name": "Saint-Laurent (MTL)",
-			"description": "The Alstom Metropolis is a series of metro EMUs in service across the world since 1993. The Saint-Laurent is an autonomous light metro variant built for the Réseau express métropolitain in Montreal that entered service in 2023. Cost is a estimate based on the overall contract Alstom signed which includes signalling and stuff",
+			"description": "The Alstom Metropolis is a series of metro EMUs in service across the world since 1993. The Saint-Laurent is an autonomous light metro variant built for the Rï¿½seau express mï¿½tropolitain in Montreal that entered service in 2023. Cost is a estimate based on the overall contract Alstom signed which includes signalling and stuff",
 			"allowAtGradeRoadCrossing": false,
 			"stats": {
 				"maxAcceleration": 1.1,
@@ -2008,7 +2055,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Saint-Laurent (MTL)"]			"appearance": { "color": "#82C341"},
+			"compatibleTrackTypes": ["Saint-Laurent (MTL)"],
+			"appearance": { "color": "#82C341"},
 			"isFixed": false,
 			"location": {
 				"city": ["Montreal"],
@@ -2050,7 +2098,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Desiro Classic (SD)"]			"appearance": { "color": "#0055A4"},
+			"compatibleTrackTypes": ["Desiro Classic (SD)"],
+			"appearance": { "color": "#0055A4"},
 			"isFixed": false,
 			"location": {
 				"city": ["San Diego"],
@@ -2092,7 +2141,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["CQ400 (ATL)"]			"appearance": { "color": "#2CC1E1"},
+			"compatibleTrackTypes": ["CQ400 (ATL)"],
+			"appearance": { "color": "#2CC1E1"},
 			"isFixed": false,
 			"location": {
 				"city": ["Atlanta"],
@@ -2134,7 +2184,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["CQ312 (ATL)"]			"appearance": { "color": "#00362A"},
+			"compatibleTrackTypes": ["CQ312 (ATL)"],
+			"appearance": { "color": "#00362A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Atlanta"],
@@ -2176,7 +2227,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 777"]			"appearance": { "color": "#FFF200"},
+			"compatibleTrackTypes": ["BR Class 777"],
+			"appearance": { "color": "#FFF200"},
 			"isFixed": false,
 			"location": {
 				"city": ["Liverpool"],
@@ -2218,7 +2270,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Mark V (VAN)"]			"appearance": { "color": "#305AA7"},
+			"compatibleTrackTypes": ["Mark V (VAN)"],
+			"appearance": { "color": "#305AA7"},
 			"isFixed": false,
 			"location": {
 				"city": ["Vancouver"],
@@ -2260,7 +2313,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Mark III (VAN)"]			"appearance": { "color": "#2c5bb0"},
+			"compatibleTrackTypes": ["Mark III (VAN)"],
+			"appearance": { "color": "#2c5bb0"},
 			"isFixed": false,
 			"location": {
 				"city": ["Vancouver"],
@@ -2302,7 +2356,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Rotem EMU (VAN)"]			"appearance": { "color": "#F8D92B"},
+			"compatibleTrackTypes": ["Rotem EMU (VAN)"],
+			"appearance": { "color": "#F8D92B"},
 			"isFixed": false,
 			"location": {
 				"city": ["Vancouver"],
@@ -2344,7 +2399,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["CRRC HR4000 (LA)"]			"appearance": { "color": "#E3131B"},
+			"compatibleTrackTypes": ["CRRC HR4000 (LA)"],
+			"appearance": { "color": "#E3131B"},
 			"isFixed": false,
 			"location": {
 				"city": ["Los Angeles"],
@@ -2386,7 +2442,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["P3010 LRV (LA)"]			"appearance": { "color": "#111111"},
+			"compatibleTrackTypes": ["P3010 LRV (LA)"],
+			"appearance": { "color": "#111111"},
 			"isFixed": false,
 			"location": {
 				"city": ["Los Angeles"],
@@ -2428,7 +2485,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["A650 (LA)"]			"appearance": { "color": "#c9141b"},
+			"compatibleTrackTypes": ["A650 (LA)"],
+			"appearance": { "color": "#c9141b"},
 			"isFixed": false,
 			"location": {
 				"city": ["Los Angeles"],
@@ -2470,7 +2528,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["MR-73 (MTL)"]			"appearance": { "color": "#FFCD00"},
+			"compatibleTrackTypes": ["MR-73 (MTL)"],
+			"appearance": { "color": "#FFCD00"},
 			"isFixed": false,
 			"location": {
 				"city": ["Montreal"],
@@ -2512,7 +2571,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["MultiLevel Coach III EMU"]			"appearance": { "color": "#00A3E3"},
+			"compatibleTrackTypes": ["MultiLevel Coach III EMU"],
+			"appearance": { "color": "#00A3E3"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -2554,7 +2614,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["ALP45-BMLC"]			"appearance": { "color": "#F9A533"},
+			"compatibleTrackTypes": ["ALP45-BMLC"],
+			"appearance": { "color": "#F9A533"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City","Montreal"],
@@ -2596,7 +2657,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["ALP46-BMLC"]			"appearance": { "color": "#EE3E42"},
+			"compatibleTrackTypes": ["ALP46-BMLC"],
+			"appearance": { "color": "#EE3E42"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -2638,7 +2700,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["M8 (NYC)"]			"appearance": { "color": "#0059FF"},
+			"compatibleTrackTypes": ["M8 (NYC)"],
+			"appearance": { "color": "#0059FF"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -2680,7 +2743,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["M7 (NYC)"]			"appearance": { "color": "#0044C4"},
+			"compatibleTrackTypes": ["M7 (NYC)"],
+			"appearance": { "color": "#0044C4"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -2722,7 +2786,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["SC-SL4"]			"appearance": { "color": "#002160"},
+			"compatibleTrackTypes": ["SC-SL4"],
+			"appearance": { "color": "#002160"},
 			"isFixed": false,
 			"location": {
 				"city": ["New York City"],
@@ -2764,7 +2829,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["MPX-VRE"]			"appearance": { "color": "#EE3E42"},
+			"compatibleTrackTypes": ["MPX-VRE"],
+			"appearance": { "color": "#EE3E42"},
 			"isFixed": false,
 			"location": {
 				"city": ["Washington D.C."],
@@ -2806,7 +2872,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 357"]			"appearance": { "color": "#B71C8C"},
+			"compatibleTrackTypes": ["BR Class 357"],
+			"appearance": { "color": "#B71C8C"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -2848,7 +2915,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 720"]			"appearance": { "color": "#ED028C"},
+			"compatibleTrackTypes": ["BR Class 720"],
+			"appearance": { "color": "#ED028C"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -2890,7 +2958,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 165"]			"appearance": { "color": "#1C2D47"},
+			"compatibleTrackTypes": ["BR Class 165"],
+			"appearance": { "color": "#1C2D47"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -2932,7 +3001,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 360"]			"appearance": { "color": "#CFAB2A"},
+			"compatibleTrackTypes": ["BR Class 360"],
+			"appearance": { "color": "#CFAB2A"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -2974,7 +3044,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 360-2"]			"appearance": { "color": "#CFAB2A"},
+			"compatibleTrackTypes": ["BR Class 360-2"],
+			"appearance": { "color": "#CFAB2A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -3016,7 +3087,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 345"]			"appearance": { "color": "#11A6C8"},
+			"compatibleTrackTypes": ["BR Class 345"],
+			"appearance": { "color": "#11A6C8"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3058,7 +3130,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 171/172"]			"appearance": { "color": "#00A54F"},
+			"compatibleTrackTypes": ["BR Class 171/172"],
+			"appearance": { "color": "#00A54F"},
 			"isFixed": false,
 			"location": {
 				"city": ["London","Birmingham (UK)"],
@@ -3100,7 +3173,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 377"]			"appearance": { "color": "#00FF77"},
+			"compatibleTrackTypes": ["BR Class 377"],
+			"appearance": { "color": "#00FF77"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3142,7 +3216,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 387"]			"appearance": { "color": "#231F20"},
+			"compatibleTrackTypes": ["BR Class 387"],
+			"appearance": { "color": "#231F20"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3184,7 +3259,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 379"]			"appearance": { "color": "#CE9C61"},
+			"compatibleTrackTypes": ["BR Class 379"],
+			"appearance": { "color": "#CE9C61"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3226,7 +3302,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 700"]			"appearance": { "color": "#B0016A"},
+			"compatibleTrackTypes": ["BR Class 700"],
+			"appearance": { "color": "#B0016A"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3268,7 +3345,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 745"]			"appearance": { "color": "#8A8FA4"},
+			"compatibleTrackTypes": ["BR Class 745"],
+			"appearance": { "color": "#8A8FA4"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3310,7 +3388,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 755"]			"appearance": { "color": "#D8E0FF"},
+			"compatibleTrackTypes": ["BR Class 755"],
+			"appearance": { "color": "#D8E0FF"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3352,7 +3431,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 150"]			"appearance": { "color": "#68912F"},
+			"compatibleTrackTypes": ["BR Class 150"],
+			"appearance": { "color": "#68912F"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3394,7 +3474,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 350"]			"appearance": { "color": "#8BC63E"},
+			"compatibleTrackTypes": ["BR Class 350"],
+			"appearance": { "color": "#8BC63E"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3436,7 +3517,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 730"]			"appearance": { "color": "#B3FF51"},
+			"compatibleTrackTypes": ["BR Class 730"],
+			"appearance": { "color": "#B3FF51"},
 			"isFixed": false,
 			"location": {
 				"city": ["London","Birmingham (UK)"],
@@ -3478,7 +3560,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 158/159"]			"appearance": { "color": "#EE1D23"},
+			"compatibleTrackTypes": ["BR Class 158/159"],
+			"appearance": { "color": "#EE1D23"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3520,7 +3603,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 444"]			"appearance": { "color": "#A5151A"},
+			"compatibleTrackTypes": ["BR Class 444"],
+			"appearance": { "color": "#A5151A"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3562,7 +3646,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 450"]			"appearance": { "color": "#700E13"},
+			"compatibleTrackTypes": ["BR Class 450"],
+			"appearance": { "color": "#700E13"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3604,7 +3689,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 455"]			"appearance": { "color": "#49090D"},
+			"compatibleTrackTypes": ["BR Class 455"],
+			"appearance": { "color": "#49090D"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3646,7 +3732,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 458"]			"appearance": { "color": "#7F1017"},
+			"compatibleTrackTypes": ["BR Class 458"],
+			"appearance": { "color": "#7F1017"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3688,7 +3775,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 701"]			"appearance": { "color": "#FF2128"},
+			"compatibleTrackTypes": ["BR Class 701"],
+			"appearance": { "color": "#FF2128"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3730,7 +3818,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 375"]			"appearance": { "color": "#0072BC"},
+			"compatibleTrackTypes": ["BR Class 375"],
+			"appearance": { "color": "#0072BC"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3772,7 +3861,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 376"]			"appearance": { "color": "#009DFF"},
+			"compatibleTrackTypes": ["BR Class 376"],
+			"appearance": { "color": "#009DFF"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3814,7 +3904,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 465"]			"appearance": { "color": "#005E99"},
+			"compatibleTrackTypes": ["BR Class 465"],
+			"appearance": { "color": "#005E99"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3856,7 +3947,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 466"]			"appearance": { "color": "#004570"},
+			"compatibleTrackTypes": ["BR Class 466"],
+			"appearance": { "color": "#004570"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3898,7 +3990,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 707"]			"appearance": { "color": "#003251"},
+			"compatibleTrackTypes": ["BR Class 707"],
+			"appearance": { "color": "#003251"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3940,7 +4033,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["DLR B07"]			"appearance": { "color": "#00AFAA"},
+			"compatibleTrackTypes": ["DLR B07"],
+			"appearance": { "color": "#00AFAA"},
 			"isFixed": false,
 			"location": {
 				"city": ["London"],
@@ -3982,7 +4076,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Flexity Swift LF"]			"appearance": { "color": "#76BC21"},
+			"compatibleTrackTypes": ["Flexity Swift LF"],
+			"appearance": { "color": "#76BC21"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","London","Istanbul"],
@@ -4024,7 +4119,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Silverliner V"]			"appearance": { "color": "#4C748C"},
+			"compatibleTrackTypes": ["Silverliner V"],
+			"appearance": { "color": "#4C748C"},
 			"isFixed": false,
 			"location": {
 				"city": ["Philadelphia","Denver"],
@@ -4066,7 +4162,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["MPX-BBLC"]			"appearance": { "color": "#4A7729"},
+			"compatibleTrackTypes": ["MPX-BBLC"],
+			"appearance": { "color": "#4A7729"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Toronto","San Francisco","Los Angeles","Seattle","Salt Lake City"],
@@ -4108,7 +4205,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["RL Series 4 (BOS)"]			"appearance": { "color": "#DA291C"},
+			"compatibleTrackTypes": ["RL Series 4 (BOS)"],
+			"appearance": { "color": "#DA291C"},
 			"isFixed": false,
 			"location": {
 				"city": ["Boston"],
@@ -4150,7 +4248,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["OL Series 14 (BOS)"]			"appearance": { "color": "#ED8B00"},
+			"compatibleTrackTypes": ["OL Series 14 (BOS)"],
+			"appearance": { "color": "#ED8B00"},
 			"isFixed": false,
 			"location": {
 				"city": ["Boston"],
@@ -4192,7 +4291,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BL Series 5 (BOS)"]			"appearance": { "color": "#003DA5"},
+			"compatibleTrackTypes": ["BL Series 5 (BOS)"],
+			"appearance": { "color": "#003DA5"},
 			"isFixed": false,
 			"location": {
 				"city": ["Boston"],
@@ -4234,7 +4334,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Type 8 LRV (BOS)"]			"appearance": { "color": "#00843D"},
+			"compatibleTrackTypes": ["Type 8 LRV (BOS)"],
+			"appearance": { "color": "#00843D"},
 			"isFixed": false,
 			"location": {
 				"city": ["Boston"],
@@ -4276,7 +4377,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Type 9 LRV (BOS)"]			"appearance": { "color": "#00BC54"},
+			"compatibleTrackTypes": ["Type 9 LRV (BOS)"],
+			"appearance": { "color": "#00BC54"},
 			"isFixed": false,
 			"location": {
 				"city": ["Boston"],
@@ -4318,7 +4420,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Type 10 LRV (BOS)"]			"appearance": { "color": "#00FF6E"},
+			"compatibleTrackTypes": ["Type 10 LRV (BOS)"],
+			"appearance": { "color": "#00FF6E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Boston"],
@@ -4360,7 +4463,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["BART D/E"]			"appearance": { "color": "#0099D8"},
+			"compatibleTrackTypes": ["BART D/E"],
+			"appearance": { "color": "#0099D8"},
 			"isFixed": false,
 			"location": {
 				"city": ["San Francisco"],
@@ -4402,7 +4506,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["GTW 2/6 (SF)"]			"appearance": { "color": "#FFE800"},
+			"compatibleTrackTypes": ["GTW 2/6 (SF)"],
+			"appearance": { "color": "#FFE800"},
 			"isFixed": false,
 			"location": {
 				"city": ["San Francisco","Dallas"],
@@ -4444,7 +4549,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["SC-BBLC"]			"appearance": { "color": "#A89A8F"},
+			"compatibleTrackTypes": ["SC-BBLC"],
+			"appearance": { "color": "#A89A8F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","San Francisco"],
@@ -4486,7 +4592,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["KISS"]			"appearance": { "color": "#E31837"},
+			"compatibleTrackTypes": ["KISS"],
+			"appearance": { "color": "#E31837"},
 			"isFixed": false,
 			"location": {
 				"city": ["San Francisco"],
@@ -4528,7 +4635,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Nippon Sharyo DMU"]			"appearance": { "color": "#EB7300"},
+			"compatibleTrackTypes": ["Nippon Sharyo DMU"],
+			"appearance": { "color": "#EB7300"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Toronto","San Francisco"],
@@ -4570,7 +4678,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["S200-HF (SF)"]			"appearance": { "color": "#CC3847"},
+			"compatibleTrackTypes": ["S200-HF (SF)"],
+			"appearance": { "color": "#CC3847"},
 			"isFixed": false,
 			"location": {
 				"city": ["San Francisco"],
@@ -4612,7 +4721,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["MBTA Commuter Rail"]			"appearance": { "color": "#81286B"},
+			"compatibleTrackTypes": ["MBTA Commuter Rail"],
+			"appearance": { "color": "#81286B"},
 			"isFixed": false,
 			"location": {
 				"city": ["Boston"],
@@ -4654,7 +4764,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["F59-BBLC"]			"appearance": { "color": "#801B92"},
+			"compatibleTrackTypes": ["F59-BBLC"],
+			"appearance": { "color": "#801B92"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Vancouver","Seattle","Dallas"],
@@ -4696,7 +4807,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["DBAG 483 (BER)"]			"appearance": { "color": "#008D4F"},
+			"compatibleTrackTypes": ["DBAG 483 (BER)"],
+			"appearance": { "color": "#008D4F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -4738,7 +4850,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["DBAG 481 (BER)"]			"appearance": { "color": "#00B563"},
+			"compatibleTrackTypes": ["DBAG 481 (BER)"],
+			"appearance": { "color": "#00B563"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -4780,7 +4893,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["HK Series (BER)"]			"appearance": { "color": "#DA421E"},
+			"compatibleTrackTypes": ["HK Series (BER)"],
+			"appearance": { "color": "#DA421E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -4822,7 +4936,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["IK Series (BER)"]			"appearance": { "color": "#7E5330"},
+			"compatibleTrackTypes": ["IK Series (BER)"],
+			"appearance": { "color": "#7E5330"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -4864,7 +4979,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["JK Series (BER)"]			"appearance": { "color": "#7DAD4C"},
+			"compatibleTrackTypes": ["JK Series (BER)"],
+			"appearance": { "color": "#7DAD4C"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -4906,7 +5022,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["F Series (BER)"]			"appearance": { "color": "#224F86"},
+			"compatibleTrackTypes": ["F Series (BER)"],
+			"appearance": { "color": "#224F86"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -4948,7 +5065,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["H Series (BER)"]			"appearance": { "color": "#8C6DAB"},
+			"compatibleTrackTypes": ["H Series (BER)"],
+			"appearance": { "color": "#8C6DAB"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -4990,7 +5108,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["J Series (BER)"]			"appearance": { "color": "#009BD5"},
+			"compatibleTrackTypes": ["J Series (BER)"],
+			"appearance": { "color": "#009BD5"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -5032,7 +5151,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["GTxN/M/S"]			"appearance": { "color": "#C98836"},
+			"compatibleTrackTypes": ["GTxN/M/S"],
+			"appearance": { "color": "#C98836"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -5074,7 +5194,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Flexity Berlin S"]			"appearance": { "color": "#085696"},
+			"compatibleTrackTypes": ["Flexity Berlin S"],
+			"appearance": { "color": "#085696"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -5116,7 +5237,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Flexity Berlin L"]			"appearance": { "color": "#107C42"},
+			"compatibleTrackTypes": ["Flexity Berlin L"],
+			"appearance": { "color": "#107C42"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -5158,7 +5280,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Urbanliner Berlin"]			"appearance": { "color": "#14988A"},
+			"compatibleTrackTypes": ["Urbanliner Berlin"],
+			"appearance": { "color": "#14988A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin"],
@@ -5200,7 +5323,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["AnsaldoBreda DM-S"]			"appearance": { "color": "#9E0817"},
+			"compatibleTrackTypes": ["AnsaldoBreda DM-S"],
+			"appearance": { "color": "#9E0817"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Copenhagen"],
@@ -5242,7 +5366,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["AnsaldoBreda DM-M"]			"appearance": { "color": "#0081A0"},
+			"compatibleTrackTypes": ["AnsaldoBreda DM-M"],
+			"appearance": { "color": "#0081A0"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -5284,7 +5409,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["AnsaldoBreda DM-L4"]			"appearance": { "color": "#124573"},
+			"compatibleTrackTypes": ["AnsaldoBreda DM-L4"],
+			"appearance": { "color": "#124573"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Honolulu"],
@@ -5326,7 +5452,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["AnsaldoBreda DM-L6"]			"appearance": { "color": "#008751"},
+			"compatibleTrackTypes": ["AnsaldoBreda DM-L6"],
+			"appearance": { "color": "#008751"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Rome"],
@@ -5368,7 +5495,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["AnsaldoBreda DM-7"]			"appearance": { "color": "#FFB81C"},
+			"compatibleTrackTypes": ["AnsaldoBreda DM-7"],
+			"appearance": { "color": "#FFB81C"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Lima"],
@@ -5410,7 +5538,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 1.00
 			},
-			"compatibleTrackTypes": ["Litra SA/SE (CPH)"]			"appearance": { "color": "#BD2D3D"},
+			"compatibleTrackTypes": ["Litra SA/SE (CPH)"],
+			"appearance": { "color": "#BD2D3D"},
 			"isFixed": false,
 			"location": {
 				"city": ["Copenhagen"],
@@ -5452,7 +5581,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["MF 19 (PAR)"]			"appearance": { "color": "#E3B32A"},
+			"compatibleTrackTypes": ["MF 19 (PAR)"],
+			"appearance": { "color": "#E3B32A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5494,7 +5624,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["MF 19 L (PAR)"]			"appearance": { "color": "#F3A4BA"},
+			"compatibleTrackTypes": ["MF 19 L (PAR)"],
+			"appearance": { "color": "#F3A4BA"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5536,7 +5667,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["MF 19 L CA (PAR)"]			"appearance": { "color": "#98D4E2"},
+			"compatibleTrackTypes": ["MF 19 L CA (PAR)"],
+			"appearance": { "color": "#98D4E2"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5578,7 +5710,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["MF 01 (PAR)"]			"appearance": { "color": "#0064B0"},
+			"compatibleTrackTypes": ["MF 01 (PAR)"],
+			"appearance": { "color": "#0064B0"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5620,7 +5753,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["MP 14 CC (PAR)"]			"appearance": { "color": "#6E491E"},
+			"compatibleTrackTypes": ["MP 14 CC (PAR)"],
+			"appearance": { "color": "#6E491E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5662,7 +5796,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["MP 14 CA (PAR)"]			"appearance": { "color": "#662483"},
+			"compatibleTrackTypes": ["MP 14 CA (PAR)"],
+			"appearance": { "color": "#662483"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5704,7 +5839,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["MP 05 (PAR)"]			"appearance": { "color": "#FFCE00"},
+			"compatibleTrackTypes": ["MP 05 (PAR)"],
+			"appearance": { "color": "#FFCE00"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5746,7 +5882,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["MP 89 CC (PAR)"]			"appearance": { "color": "#83C491"},
+			"compatibleTrackTypes": ["MP 89 CC (PAR)"],
+			"appearance": { "color": "#83C491"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5788,7 +5925,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["MP 89 CA (PAR)"]			"appearance": { "color": "#C04191"},
+			"compatibleTrackTypes": ["MP 89 CA (PAR)"],
+			"appearance": { "color": "#C04191"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5830,7 +5968,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["MRV (PAR)"]			"appearance": { "color": "#00A88F"},
+			"compatibleTrackTypes": ["MRV (PAR)"],
+			"appearance": { "color": "#00A88F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5872,7 +6011,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["MR3V/MR6V (PAR)"]			"appearance": { "color": "#B90845"},
+			"compatibleTrackTypes": ["MR3V/MR6V (PAR)"],
+			"appearance": { "color": "#B90845"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5914,7 +6054,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["MI 09 (PAR)"]			"appearance": { "color": "#A80518"},
+			"compatibleTrackTypes": ["MI 09 (PAR)"],
+			"appearance": { "color": "#A80518"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5956,7 +6097,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["MI 79/84 (PAR)"]			"appearance": { "color": "#5291CE"},
+			"compatibleTrackTypes": ["MI 79/84 (PAR)"],
+			"appearance": { "color": "#5291CE"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -5998,7 +6140,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["MI 20 (PAR)"]			"appearance": { "color": "#4072A0"},
+			"compatibleTrackTypes": ["MI 20 (PAR)"],
+			"appearance": { "color": "#4072A0"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6040,7 +6183,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Z 5600"]			"appearance": { "color": "#F3A4BA"},
+			"compatibleTrackTypes": ["Z 5600"],
+			"appearance": { "color": "#F3A4BA"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6082,7 +6226,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Z 8800"]			"appearance": { "color": "#B90845"},
+			"compatibleTrackTypes": ["Z 8800"],
+			"appearance": { "color": "#B90845"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6124,7 +6269,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Z 20500"]			"appearance": { "color": "#C49D00"},
+			"compatibleTrackTypes": ["Z 20500"],
+			"appearance": { "color": "#C49D00"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6166,7 +6312,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Z 20900"]			"appearance": { "color": "#9F9825"},
+			"compatibleTrackTypes": ["Z 20900"],
+			"appearance": { "color": "#9F9825"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6208,7 +6355,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Regio 2N Paris"]			"appearance": { "color": "#00A88F"},
+			"compatibleTrackTypes": ["Regio 2N Paris"],
+			"appearance": { "color": "#00A88F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6250,7 +6398,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Z 58000"]			"appearance": { "color": "#C04191"},
+			"compatibleTrackTypes": ["Z 58000"],
+			"appearance": { "color": "#C04191"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6292,7 +6441,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Z 58500"]			"appearance": { "color": "#00814F"},
+			"compatibleTrackTypes": ["Z 58500"],
+			"appearance": { "color": "#00814F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6302,10 +6452,10 @@
 			"manufacturer": ["Bombardier"],
 			"tag": ["Standard S-Bahn"]
 		},
-		"Éole (PAR)": {
-			"id": "Éole (PAR)",
-			"name": "Éole (PAR)",
-			"description": "The Z 22500 Éole is a commuter rail double-decker EMU built by ANF and Alstom that operates on the RER E Line. It entered service in 1996. Cost is an estimate.",
+		"ï¿½ole (PAR)": {
+			"id": "ï¿½ole (PAR)",
+			"name": "ï¿½ole (PAR)",
+			"description": "The Z 22500 ï¿½ole is a commuter rail double-decker EMU built by ANF and Alstom that operates on the RER E Line. It entered service in 1996. Cost is an estimate.",
 			"allowAtGradeRoadCrossing": true,
 			"stats": {
 				"maxAcceleration": 1.0,
@@ -6334,7 +6484,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Éole (PAR)"]			"appearance": { "color": "#8E306C"},
+			"compatibleTrackTypes": ["ï¿½ole (PAR)"],
+			"appearance": { "color": "#8E306C"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6376,7 +6527,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Francilien-7 (PAR)"]			"appearance": { "color": "#CEADD2"},
+			"compatibleTrackTypes": ["Francilien-7 (PAR)"],
+			"appearance": { "color": "#CEADD2"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6418,7 +6570,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Francilien-8 (PAR)"]			"appearance": { "color": "#8D5E2A"},
+			"compatibleTrackTypes": ["Francilien-8 (PAR)"],
+			"appearance": { "color": "#8D5E2A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6460,7 +6613,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Prima-VB2N"]			"appearance": { "color": "#D5C900"},
+			"compatibleTrackTypes": ["Prima-VB2N"],
+			"appearance": { "color": "#D5C900"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6502,7 +6656,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["B 82500 BIBI"]			"appearance": { "color": "#F57F3A"},
+			"compatibleTrackTypes": ["B 82500 BIBI"],
+			"appearance": { "color": "#F57F3A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Paris"],
@@ -6544,7 +6699,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Citadis 302 N"]			"appearance": { "color": "#C04191"},
+			"compatibleTrackTypes": ["Citadis 302 N"],
+			"appearance": { "color": "#C04191"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Paris"],
@@ -6586,7 +6742,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Citadis 402"]			"appearance": { "color": "#F28E42"},
+			"compatibleTrackTypes": ["Citadis 402"],
+			"appearance": { "color": "#F28E42"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Paris"],
@@ -6628,7 +6785,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Citadis 305 N"]			"appearance": { "color": "#0094FF"},
+			"compatibleTrackTypes": ["Citadis 305 N"],
+			"appearance": { "color": "#0094FF"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Paris","Athens"],
@@ -6670,7 +6828,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Citadis 405"]			"appearance": { "color": "#5291CE"},
+			"compatibleTrackTypes": ["Citadis 405"],
+			"appearance": { "color": "#5291CE"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Paris"],
@@ -6712,7 +6871,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Citadis Dualis"]			"appearance": { "color": "#E3B32A"},
+			"compatibleTrackTypes": ["Citadis Dualis"],
+			"appearance": { "color": "#E3B32A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Paris"],
@@ -6754,7 +6914,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Avenio (CPH)"]			"appearance": { "color": "#56C271"},
+			"compatibleTrackTypes": ["Avenio (CPH)"],
+			"appearance": { "color": "#56C271"},
 			"isFixed": false,
 			"location": {
 				"city": ["Copenhagen"],
@@ -6796,7 +6957,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Variobahn 32m"]			"appearance": { "color": "#C4003E"},
+			"compatibleTrackTypes": ["Variobahn 32m"],
+			"appearance": { "color": "#C4003E"},
 			"isFixed": false,
 			"location": {
 				"city": ["London","Copenhagen"],
@@ -6838,7 +7000,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Variobahn Odense"]			"appearance": { "color": "#EF3B24"},
+			"compatibleTrackTypes": ["Variobahn Odense"],
+			"appearance": { "color": "#EF3B24"},
 			"isFixed": false,
 			"location": {
 				"city": ["Copenhagen"],
@@ -6880,7 +7043,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["ES/IC5 (DSB)"]			"appearance": { "color": "#D00C33"},
+			"compatibleTrackTypes": ["ES/IC5 (DSB)"],
+			"appearance": { "color": "#D00C33"},
 			"isFixed": false,
 			"location": {
 				"city": ["Copenhagen"],
@@ -6922,7 +7086,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["IC4 (DSB)"]			"appearance": { "color": "#CE2B37"},
+			"compatibleTrackTypes": ["IC4 (DSB)"],
+			"appearance": { "color": "#CE2B37"},
 			"isFixed": false,
 			"location": {
 				"city": ["Copenhagen","Muammar Gaddafi"],
@@ -6964,7 +7129,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 500 (BCN)"]			"appearance": { "color": "#B4CD56"},
+			"compatibleTrackTypes": ["Series 500 (BCN)"],
+			"appearance": { "color": "#B4CD56"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7006,7 +7172,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 2100 (BCN)"]			"appearance": { "color": "#FCBE00"},
+			"compatibleTrackTypes": ["Series 2100 (BCN)"],
+			"appearance": { "color": "#FCBE00"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7048,7 +7215,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 5000 (BCN)"]			"appearance": { "color": "#0177BC"},
+			"compatibleTrackTypes": ["Series 5000 (BCN)"],
+			"appearance": { "color": "#0177BC"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7090,7 +7258,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Series 6000 (BCN)"]			"appearance": { "color": "#DF2937"},
+			"compatibleTrackTypes": ["Series 6000 (BCN)"],
+			"appearance": { "color": "#DF2937"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7132,7 +7301,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 7000 (BCN)"]			"appearance": { "color": "#3AA83E"},
+			"compatibleTrackTypes": ["Series 7000 (BCN)"],
+			"appearance": { "color": "#3AA83E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7174,7 +7344,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Series 8000 (BCN)"]			"appearance": { "color": "#FF3041"},
+			"compatibleTrackTypes": ["Series 8000 (BCN)"],
+			"appearance": { "color": "#FF3041"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7216,7 +7387,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 9000 (BCN)"]			"appearance": { "color": "#993C8C"},
+			"compatibleTrackTypes": ["Series 9000 (BCN)"],
+			"appearance": { "color": "#993C8C"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7258,7 +7430,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 9000 A (BCN)"]			"appearance": { "color": "#08A0E5"},
+			"compatibleTrackTypes": ["Series 9000 A (BCN)"],
+			"appearance": { "color": "#08A0E5"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7300,7 +7473,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 112 (BCN)"]			"appearance": { "color": "#7386BC"},
+			"compatibleTrackTypes": ["Series 112 (BCN)"],
+			"appearance": { "color": "#7386BC"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7342,7 +7516,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 113 (BCN)"]			"appearance": { "color": "#BBB3D7"},
+			"compatibleTrackTypes": ["Series 113 (BCN)"],
+			"appearance": { "color": "#BBB3D7"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7384,7 +7559,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 114 (BCN)"]			"appearance": { "color": "#B16612"},
+			"compatibleTrackTypes": ["Series 114 (BCN)"],
+			"appearance": { "color": "#B16612"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7426,7 +7602,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 115 (BCN)"]			"appearance": { "color": "#9EB7FF"},
+			"compatibleTrackTypes": ["Series 115 (BCN)"],
+			"appearance": { "color": "#9EB7FF"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7468,7 +7645,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 213 (BCN)"]			"appearance": { "color": "#E579AE"},
+			"compatibleTrackTypes": ["Series 213 (BCN)"],
+			"appearance": { "color": "#E579AE"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7510,7 +7688,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Citadis 302"]			"appearance": { "color": "#C04191"},
+			"compatibleTrackTypes": ["Citadis 302"],
+			"appearance": { "color": "#C04191"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Barcelona"],
@@ -7552,7 +7731,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Citadis 305"]			"appearance": { "color": "#0094FF"},
+			"compatibleTrackTypes": ["Citadis 305"],
+			"appearance": { "color": "#0094FF"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Barcelona","Tel-Aviv","Sydney"],
@@ -7594,7 +7774,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 449"]			"appearance": { "color": "#BC6100"},
+			"compatibleTrackTypes": ["Series 449"],
+			"appearance": { "color": "#BC6100"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7636,7 +7817,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Series 462-465"]			"appearance": { "color": "#EF7D00"},
+			"compatibleTrackTypes": ["Series 462-465"],
+			"appearance": { "color": "#EF7D00"},
 			"isFixed": false,
 			"location": {
 				"city": ["Barcelona"],
@@ -7678,7 +7860,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["M5 (AMS)"]			"appearance": { "color": "#0092D4"},
+			"compatibleTrackTypes": ["M5 (AMS)"],
+			"appearance": { "color": "#0092D4"},
 			"isFixed": false,
 			"location": {
 				"city": ["Amsterdam"],
@@ -7720,7 +7903,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["M7 (AMS)"]			"appearance": { "color": "#FFD500"},
+			"compatibleTrackTypes": ["M7 (AMS)"],
+			"appearance": { "color": "#FFD500"},
 			"isFixed": false,
 			"location": {
 				"city": ["Amsterdam"],
@@ -7762,7 +7946,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Urbos 100 (AMS)"]			"appearance": { "color": "#0000BB"},
+			"compatibleTrackTypes": ["Urbos 100 (AMS)"],
+			"appearance": { "color": "#0000BB"},
 			"isFixed": false,
 			"location": {
 				"city": ["Amsterdam"],
@@ -7804,7 +7989,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Combino (AMS)"]			"appearance": { "color": "#000099"},
+			"compatibleTrackTypes": ["Combino (AMS)"],
+			"appearance": { "color": "#000099"},
 			"isFixed": false,
 			"location": {
 				"city": ["Amsterdam"],
@@ -7846,7 +8032,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["S/300 (ROM)"]			"appearance": { "color": "#F36C21"},
+			"compatibleTrackTypes": ["S/300 (ROM)"],
+			"appearance": { "color": "#F36C21"},
 			"isFixed": false,
 			"location": {
 				"city": ["Rome"],
@@ -7888,7 +8075,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Hitachi Rome"]			"appearance": { "color": "#0071BB"},
+			"compatibleTrackTypes": ["Hitachi Rome"],
+			"appearance": { "color": "#0071BB"},
 			"isFixed": false,
 			"location": {
 				"city": ["Rome"],
@@ -7930,7 +8118,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["81-717/81-714"]			"appearance": { "color": "#32AB53"},
+			"compatibleTrackTypes": ["81-717/81-714"],
+			"appearance": { "color": "#32AB53"},
 			"isFixed": false,
 			"location": {
 				"city": ["Union of Soviet Socialist Republics","Kyiv","Budapest"],
@@ -7972,7 +8161,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Twist Foxtrot"]			"appearance": { "color": "#001C4A"},
+			"compatibleTrackTypes": ["Twist Foxtrot"],
+			"appearance": { "color": "#001C4A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Kyiv"],
@@ -8014,7 +8204,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["K-1T"]			"appearance": { "color": "#35BCED"},
+			"compatibleTrackTypes": ["K-1T"],
+			"appearance": { "color": "#35BCED"},
 			"isFixed": false,
 			"location": {
 				"city": ["Kyiv"],
@@ -8056,7 +8247,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Innovia APM"]			"appearance": { "color": "#000000"},
+			"compatibleTrackTypes": ["Innovia APM"],
+			"appearance": { "color": "#000000"},
 			"isFixed": false,
 			"location": {
 				"city": ["Miami"],
@@ -8098,7 +8290,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Hitachi Miami"]			"appearance": { "color": "#0079C2"},
+			"compatibleTrackTypes": ["Hitachi Miami"],
+			"appearance": { "color": "#0079C2"},
 			"isFixed": false,
 			"location": {
 				"city": ["Miami"],
@@ -8140,7 +8333,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Seattle Series 1"]			"appearance": { "color": "#3DAE2B"},
+			"compatibleTrackTypes": ["Seattle Series 1"],
+			"appearance": { "color": "#3DAE2B"},
 			"isFixed": false,
 			"location": {
 				"city": ["Seattle"],
@@ -8182,7 +8376,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["SD-100/160"]			"appearance": { "color": "#FFFFFF"},
+			"compatibleTrackTypes": ["SD-100/160"],
+			"appearance": { "color": "#FFFFFF"},
 			"isFixed": false,
 			"location": {
 				"city": ["San Diego","Salt Lake City","Denver","Calgary","Edmonton"],
@@ -8224,7 +8419,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Urbos 3 (WMM)"]			"appearance": { "color": "#0000BB"},
+			"compatibleTrackTypes": ["Urbos 3 (WMM)"],
+			"appearance": { "color": "#0000BB"},
 			"isFixed": false,
 			"location": {
 				"city": ["Birmingham (UK)"],
@@ -8266,7 +8462,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["S200-HF (CGY)"]			"appearance": { "color": "#C8102E"},
+			"compatibleTrackTypes": ["S200-HF (CGY)"],
+			"appearance": { "color": "#C8102E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Calgary"],
@@ -8308,7 +8505,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BR Class 555"]			"appearance": { "color": "#B7841D"},
+			"compatibleTrackTypes": ["BR Class 555"],
+			"appearance": { "color": "#B7841D"},
 			"isFixed": false,
 			"location": {
 				"city": ["Newcastle"],
@@ -8350,7 +8548,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Generation 2 (ATH)"]			"appearance": { "color": "#DA291C"},
+			"compatibleTrackTypes": ["Generation 2 (ATH)"],
+			"appearance": { "color": "#DA291C"},
 			"isFixed": false,
 			"location": {
 				"city": ["Athens"],
@@ -8392,7 +8591,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Generation 3 (ATH)"]			"appearance": { "color": "#10069F"},
+			"compatibleTrackTypes": ["Generation 3 (ATH)"],
+			"appearance": { "color": "#10069F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Athens"],
@@ -8434,7 +8634,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Desiro Classic (ATH)"]			"appearance": { "color": "#004587"},
+			"compatibleTrackTypes": ["Desiro Classic (ATH)"],
+			"appearance": { "color": "#004587"},
 			"isFixed": false,
 			"location": {
 				"city": ["Athens"],
@@ -8476,7 +8677,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Sirio (ATH)"]			"appearance": { "color": "#83B81A"},
+			"compatibleTrackTypes": ["Sirio (ATH)"],
+			"appearance": { "color": "#83B81A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Athens"],
@@ -8486,10 +8688,10 @@
 			"manufacturer": ["AnsaldoBreda"],
 			"tag": ["Standard LRT"]
 		},
-		"IÉ 22000": {
-			"id": "IÉ 22000",
-			"name": "IÉ 22000",
-			"description": "The IÉ Class 22000 is an Irish DMU used for both commuter rail and intercity services. It was built by Hyundai Rotem and entered service in 2007. Acceleration is guesstimated. Cost is an estimate.",
+		"Iï¿½ 22000": {
+			"id": "Iï¿½ 22000",
+			"name": "Iï¿½ 22000",
+			"description": "The Iï¿½ Class 22000 is an Irish DMU used for both commuter rail and intercity services. It was built by Hyundai Rotem and entered service in 2007. Acceleration is guesstimated. Cost is an estimate.",
 			"allowAtGradeRoadCrossing": true,
 			"stats": {
 				"maxAcceleration": 0.7,
@@ -8518,7 +8720,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["IÉ 22000"]			"appearance": { "color": "#169B62"},
+			"compatibleTrackTypes": ["Iï¿½ 22000"],
+			"appearance": { "color": "#169B62"},
 			"isFixed": false,
 			"location": {
 				"city": ["Dublin"],
@@ -8528,10 +8731,10 @@
 			"manufacturer": ["Hyundai"],
 			"tag": ["Diesel Commuter"]
 		},
-		"IÉ 29000": {
-			"id": "IÉ 29000",
-			"name": "IÉ 29000",
-			"description": "The IÉ Class 29000 is an Irish commuter rail DMU built by CAF that entered service in 2003. Acceleration is guesstimated. Cost is an estimate.",
+		"Iï¿½ 29000": {
+			"id": "Iï¿½ 29000",
+			"name": "Iï¿½ 29000",
+			"description": "The Iï¿½ Class 29000 is an Irish commuter rail DMU built by CAF that entered service in 2003. Acceleration is guesstimated. Cost is an estimate.",
 			"allowAtGradeRoadCrossing": true,
 			"stats": {
 				"maxAcceleration": 0.9,
@@ -8560,7 +8763,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["IÉ 29000"]			"appearance": { "color": "#FF883E"},
+			"compatibleTrackTypes": ["Iï¿½ 29000"],
+			"appearance": { "color": "#FF883E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Dublin"],
@@ -8602,7 +8806,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Citadis 401"]			"appearance": { "color": "#4F3189"},
+			"compatibleTrackTypes": ["Citadis 401"],
+			"appearance": { "color": "#4F3189"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Dublin"],
@@ -8644,7 +8849,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Citadis 502"]			"appearance": { "color": "#764ACE"},
+			"compatibleTrackTypes": ["Citadis 502"],
+			"appearance": { "color": "#764ACE"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Dublin"],
@@ -8686,7 +8892,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["IST M1"]			"appearance": { "color": "#E22014"},
+			"compatibleTrackTypes": ["IST M1"],
+			"appearance": { "color": "#E22014"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -8728,7 +8935,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["IST M2 2008"]			"appearance": { "color": "#009943"},
+			"compatibleTrackTypes": ["IST M2 2008"],
+			"appearance": { "color": "#009943"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -8770,7 +8978,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["IST M2 2017"]			"appearance": { "color": "#00B54E"},
+			"compatibleTrackTypes": ["IST M2 2017"],
+			"appearance": { "color": "#00B54E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -8812,7 +9021,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["IST M3"]			"appearance": { "color": "#00A8E2"},
+			"compatibleTrackTypes": ["IST M3"],
+			"appearance": { "color": "#00A8E2"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -8854,7 +9064,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["IST M4"]			"appearance": { "color": "#E91977"},
+			"compatibleTrackTypes": ["IST M4"],
+			"appearance": { "color": "#E91977"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -8896,7 +9107,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["IST M5"]			"appearance": { "color": "#672C65"},
+			"compatibleTrackTypes": ["IST M5"],
+			"appearance": { "color": "#672C65"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -8938,7 +9150,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["IST M6"]			"appearance": { "color": "#C9AA78"},
+			"compatibleTrackTypes": ["IST M6"],
+			"appearance": { "color": "#C9AA78"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -8980,7 +9193,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["IST M7/M8"]			"appearance": { "color": "#F29FC0"},
+			"compatibleTrackTypes": ["IST M7/M8"],
+			"appearance": { "color": "#F29FC0"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -9022,7 +9236,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["IST M11"]			"appearance": { "color": "#AC5390"},
+			"compatibleTrackTypes": ["IST M11"],
+			"appearance": { "color": "#AC5390"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -9064,7 +9279,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["IST M12"]			"appearance": { "color": "#C9D200"},
+			"compatibleTrackTypes": ["IST M12"],
+			"appearance": { "color": "#C9D200"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -9106,7 +9322,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["TCDD E32000"]			"appearance": { "color": "#392F85"},
+			"compatibleTrackTypes": ["TCDD E32000"],
+			"appearance": { "color": "#392F85"},
 			"isFixed": false,
 			"location": {
 				"city": ["Istanbul"],
@@ -9148,7 +9365,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Urbos 100 (T-A)"]			"appearance": { "color": "#BA34B1"},
+			"compatibleTrackTypes": ["Urbos 100 (T-A)"],
+			"appearance": { "color": "#BA34B1"},
 			"isFixed": false,
 			"location": {
 				"city": ["Tel-Aviv"],
@@ -9190,7 +9408,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Citadis 304"]			"appearance": { "color": "#004987"},
+			"compatibleTrackTypes": ["Citadis 304"],
+			"appearance": { "color": "#004987"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Istanbul"],
@@ -9232,7 +9451,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["AM5-M2"]			"appearance": { "color": "#E41F18"},
+			"compatibleTrackTypes": ["AM5-M2"],
+			"appearance": { "color": "#E41F18"},
 			"isFixed": false,
 			"location": {
 				"city": ["Budapest"],
@@ -9274,7 +9494,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["AM4-M4"]			"appearance": { "color": "#48A842"},
+			"compatibleTrackTypes": ["AM4-M4"],
+			"appearance": { "color": "#48A842"},
 			"isFixed": false,
 			"location": {
 				"city": ["Budapest"],
@@ -9316,7 +9537,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["BHEV MX"]			"appearance": { "color": "#1E1E1E"},
+			"compatibleTrackTypes": ["BHEV MX"],
+			"appearance": { "color": "#1E1E1E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Budapest"],
@@ -9358,7 +9580,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Urbos 100 (BUD-5)"]			"appearance": { "color": "#2B2929"},
+			"compatibleTrackTypes": ["Urbos 100 (BUD-5)"],
+			"appearance": { "color": "#2B2929"},
 			"isFixed": false,
 			"location": {
 				"city": ["Budapest"],
@@ -9400,7 +9623,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Urbos 100 (BUD-9)"]			"appearance": { "color": "#FFD900"},
+			"compatibleTrackTypes": ["Urbos 100 (BUD-9)"],
+			"appearance": { "color": "#FFD900"},
 			"isFixed": false,
 			"location": {
 				"city": ["Budapest"],
@@ -9442,7 +9666,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Urbos 3 (EDI)"]			"appearance": { "color": "#8A0D04"},
+			"compatibleTrackTypes": ["Urbos 3 (EDI)"],
+			"appearance": { "color": "#8A0D04"},
 			"isFixed": false,
 			"location": {
 				"city": ["Calgary","Edinburgh"],
@@ -9484,7 +9709,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 1.00
 			},
-			"compatibleTrackTypes": ["S-Tog Gen 5"]			"appearance": { "color": "#961C27"},
+			"compatibleTrackTypes": ["S-Tog Gen 5"],
+			"appearance": { "color": "#961C27"},
 			"isFixed": false,
 			"location": {
 				"city": ["Copenhagen"],
@@ -9526,7 +9752,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["9000 Series (Lima)"]			"appearance": { "color": "#47AA42"},
+			"compatibleTrackTypes": ["9000 Series (Lima)"],
+			"appearance": { "color": "#47AA42"},
 			"isFixed": false,
 			"location": {
 				"city": ["Lima"],
@@ -9568,7 +9795,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["TMK 2200"]			"appearance": { "color": "#1264AB"},
+			"compatibleTrackTypes": ["TMK 2200"],
+			"appearance": { "color": "#1264AB"},
 			"isFixed": false,
 			"location": {
 				"city": ["Zagreb"],
@@ -9610,7 +9838,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["DT4"]			"appearance": { "color": "#005AA4"},
+			"compatibleTrackTypes": ["DT4"],
+			"appearance": { "color": "#005AA4"},
 			"isFixed": false,
 			"location": {
 				"city": ["Hamburg"],
@@ -9652,7 +9881,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["DT5"]			"appearance": { "color": "#008B8F"},
+			"compatibleTrackTypes": ["DT5"],
+			"appearance": { "color": "#008B8F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Hamburg"],
@@ -9694,7 +9924,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["DT6-F"]			"appearance": { "color": "#FFD600"},
+			"compatibleTrackTypes": ["DT6-F"],
+			"appearance": { "color": "#FFD600"},
 			"isFixed": false,
 			"location": {
 				"city": ["Hamburg"],
@@ -9736,7 +9967,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["DT6-A"]			"appearance": { "color": "#A86A1B"},
+			"compatibleTrackTypes": ["DT6-A"],
+			"appearance": { "color": "#A86A1B"},
 			"isFixed": false,
 			"location": {
 				"city": ["Hamburg"],
@@ -9778,7 +10010,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["DBAG 474 (HAM)"]			"appearance": { "color": "#00962C"},
+			"compatibleTrackTypes": ["DBAG 474 (HAM)"],
+			"appearance": { "color": "#00962C"},
 			"isFixed": false,
 			"location": {
 				"city": ["Hamburg"],
@@ -9820,7 +10053,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["DBAG 490 (HAM)"]			"appearance": { "color": "#54216E"},
+			"compatibleTrackTypes": ["DBAG 490 (HAM)"],
+			"appearance": { "color": "#54216E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Hamburg"],
@@ -9862,7 +10096,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Coradia LINT 27"]			"appearance": { "color": "#005132"},
+			"compatibleTrackTypes": ["Coradia LINT 27"],
+			"appearance": { "color": "#005132"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -9904,7 +10139,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Coradia LINT 41"]			"appearance": { "color": "#8C959A"},
+			"compatibleTrackTypes": ["Coradia LINT 41"],
+			"appearance": { "color": "#8C959A"},
 			"isFixed": false,
 			"location": {
 				"city": ["Ottawa","Berlin","Copenhagen"],
@@ -9946,7 +10182,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Coradia LINT 54"]			"appearance": { "color": "#E4000F"},
+			"compatibleTrackTypes": ["Coradia LINT 54"],
+			"appearance": { "color": "#E4000F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Berlin","Hamburg"],
@@ -9988,7 +10225,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Coradia LINT 81"]			"appearance": { "color": "#A3C627"},
+			"compatibleTrackTypes": ["Coradia LINT 81"],
+			"appearance": { "color": "#A3C627"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10030,7 +10268,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Coradia iLINT 54"]			"appearance": { "color": "#E41B47"},
+			"compatibleTrackTypes": ["Coradia iLINT 54"],
+			"appearance": { "color": "#E41B47"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10072,7 +10311,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["M200 (HEL)"]			"appearance": { "color": "#FF4400"},
+			"compatibleTrackTypes": ["M200 (HEL)"],
+			"appearance": { "color": "#FF4400"},
 			"isFixed": false,
 			"location": {
 				"city": ["Helsinki"],
@@ -10114,7 +10354,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["M200L (HEL)"]			"appearance": { "color": "#E03B00"},
+			"compatibleTrackTypes": ["M200L (HEL)"],
+			"appearance": { "color": "#E03B00"},
 			"isFixed": false,
 			"location": {
 				"city": ["Helsinki"],
@@ -10156,7 +10397,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["M300 (HEL)"]			"appearance": { "color": "#C63100"},
+			"compatibleTrackTypes": ["M300 (HEL)"],
+			"appearance": { "color": "#C63100"},
 			"isFixed": false,
 			"location": {
 				"city": ["Helsinki"],
@@ -10198,7 +10440,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["M300A (HEL)"]			"appearance": { "color": "#AD2800"},
+			"compatibleTrackTypes": ["M300A (HEL)"],
+			"appearance": { "color": "#AD2800"},
 			"isFixed": false,
 			"location": {
 				"city": ["Helsinki"],
@@ -10240,7 +10483,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT 2"]			"appearance": { "color": "#6b0579"},
+			"compatibleTrackTypes": ["Stadler FLIRT 2"],
+			"appearance": { "color": "#6b0579"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10282,7 +10526,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT 3"]			"appearance": { "color": "#53e859"},
+			"compatibleTrackTypes": ["Stadler FLIRT 3"],
+			"appearance": { "color": "#53e859"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10324,7 +10569,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT XL 3"]			"appearance": { "color": "#e853e3"},
+			"compatibleTrackTypes": ["Stadler FLIRT XL 3"],
+			"appearance": { "color": "#e853e3"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10366,7 +10612,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT 4"]			"appearance": { "color": "#127905"},
+			"compatibleTrackTypes": ["Stadler FLIRT 4"],
+			"appearance": { "color": "#127905"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10408,7 +10655,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT 5"]			"appearance": { "color": "#29E179"},
+			"compatibleTrackTypes": ["Stadler FLIRT 5"],
+			"appearance": { "color": "#29E179"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10450,7 +10698,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT XL 5"]			"appearance": { "color": "#E12992"},
+			"compatibleTrackTypes": ["Stadler FLIRT XL 5"],
+			"appearance": { "color": "#E12992"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10492,7 +10741,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT 6"]			"appearance": { "color": "#ACD13F"},
+			"compatibleTrackTypes": ["Stadler FLIRT 6"],
+			"appearance": { "color": "#ACD13F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10534,7 +10784,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT 7"]			"appearance": { "color": "#2D2F98"},
+			"compatibleTrackTypes": ["Stadler FLIRT 7"],
+			"appearance": { "color": "#2D2F98"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10576,7 +10827,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT 8"]			"appearance": { "color": "#894C95"},
+			"compatibleTrackTypes": ["Stadler FLIRT 8"],
+			"appearance": { "color": "#894C95"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10618,7 +10870,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT 8 Unbound"]			"appearance": { "color": "#58954C"},
+			"compatibleTrackTypes": ["Stadler FLIRT 8 Unbound"],
+			"appearance": { "color": "#58954C"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10660,7 +10913,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT 12"]			"appearance": { "color": "#2473a0"},
+			"compatibleTrackTypes": ["Stadler FLIRT 12"],
+			"appearance": { "color": "#2473a0"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -10702,7 +10956,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Stadler FLIRT 4 Dual-Mode"]			"appearance": { "color": "#127905"},
+			"compatibleTrackTypes": ["Stadler FLIRT 4 Dual-Mode"],
+			"appearance": { "color": "#127905"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Dallas"],
@@ -10744,7 +10999,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Kinki Sharyo SLRV"]			"appearance": { "color": "#EE2834"},
+			"compatibleTrackTypes": ["Kinki Sharyo SLRV"],
+			"appearance": { "color": "#EE2834"},
 			"isFixed": false,
 			"location": {
 				"city": ["Dallas"],
@@ -10786,7 +11042,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["VR Class Sm7"]			"appearance": { "color": "#14B250"},
+			"compatibleTrackTypes": ["VR Class Sm7"],
+			"appearance": { "color": "#14B250"},
 			"isFixed": false,
 			"location": {
 				"city": ["Helsinki"],
@@ -10828,7 +11085,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["VR Class Sm5"]			"appearance": { "color": "#129E45"},
+			"compatibleTrackTypes": ["VR Class Sm5"],
+			"appearance": { "color": "#129E45"},
 			"isFixed": false,
 			"location": {
 				"city": ["Helsinki"],
@@ -10841,7 +11099,7 @@
 		"Artic MLNRV-3": {
 			"id": "Artic MLNRV-3",
 			"name": "Artic MLNRV-3",
-			"description": "The Arctic MLNRV-3 is an articulated LRV built by Škoda for Helsinki's tram network that entered service in 2013. Acceleration is a guesstimate.",
+			"description": "The Arctic MLNRV-3 is an articulated LRV built by ï¿½koda for Helsinki's tram network that entered service in 2013. Acceleration is a guesstimate.",
 			"allowAtGradeRoadCrossing": true,
 			"stats": {
 				"maxAcceleration": 1.2,
@@ -10870,20 +11128,21 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Artic MLNRV-3"]			"appearance": { "color": "#F9AF15"},
+			"compatibleTrackTypes": ["Artic MLNRV-3"],
+			"appearance": { "color": "#F9AF15"},
 			"isFixed": false,
 			"location": {
 				"city": ["Helsinki"],
 				"country": ["Finland"],
 				"continent": ["Northern Europe"],
 			},
-			"manufacturer": ["Škoda"],
+			"manufacturer": ["ï¿½koda"],
 			"tag": ["Standard LRT"]
 		},
 		"Artic X54": {
 			"id": "Artic X54",
 			"name": "Artic X54",
-			"description": "The Arctic X54 is an articulated LRV built by Škoda for Helsinki's light rail network that entered service in 2021. It is expandable. Acceleration is a guesstimate.",
+			"description": "The Arctic X54 is an articulated LRV built by ï¿½koda for Helsinki's light rail network that entered service in 2021. It is expandable. Acceleration is a guesstimate.",
 			"allowAtGradeRoadCrossing": true,
 			"stats": {
 				"maxAcceleration": 1.2,
@@ -10912,14 +11171,15 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.70
 			},
-			"compatibleTrackTypes": ["Artic X54"]			"appearance": { "color": "#007E79"},
+			"compatibleTrackTypes": ["Artic X54"],
+			"appearance": { "color": "#007E79"},
 			"isFixed": false,
 			"location": {
 				"city": ["Helsinki"],
 				"country": ["Finland"],
 				"continent": ["Northern Europe"],
 			},
-			"manufacturer": ["Škoda"],
+			"manufacturer": ["ï¿½koda"],
 			"tag": ["Standard LRT"]
 		},
 		"GT8-100C/2S": {
@@ -10954,7 +11214,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["GT8-100C/2S"]			"appearance": { "color": "#00A99D"},
+			"compatibleTrackTypes": ["GT8-100C/2S"],
+			"appearance": { "color": "#00A99D"},
 			"isFixed": false,
 			"location": {
 				"city": ["Karlsruhe"],
@@ -10996,7 +11257,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["GT8-100D/2S-M"]			"appearance": { "color": "#9E184D"},
+			"compatibleTrackTypes": ["GT8-100D/2S-M"],
+			"appearance": { "color": "#9E184D"},
 			"isFixed": false,
 			"location": {
 				"city": ["Karlsruhe"],
@@ -11038,7 +11300,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["ET 2010"]			"appearance": { "color": "#BED730"},
+			"compatibleTrackTypes": ["ET 2010"],
+			"appearance": { "color": "#BED730"},
 			"isFixed": false,
 			"location": {
 				"city": ["Karlsruhe"],
@@ -11080,7 +11343,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["VDV-Tram-Train"]			"appearance": { "color": "#0090AD"},
+			"compatibleTrackTypes": ["VDV-Tram-Train"],
+			"appearance": { "color": "#0090AD"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic","Karlsruhe"],
@@ -11122,7 +11386,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["GT6-70D/N"]			"appearance": { "color": "#A065AB"},
+			"compatibleTrackTypes": ["GT6-70D/N"],
+			"appearance": { "color": "#A065AB"},
 			"isFixed": false,
 			"location": {
 				"city": ["Karlsruhe"],
@@ -11164,7 +11429,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["GT8-70D/N"]			"appearance": { "color": "#0071BC"},
+			"compatibleTrackTypes": ["GT8-70D/N"],
+			"appearance": { "color": "#0071BC"},
 			"isFixed": false,
 			"location": {
 				"city": ["Karlsruhe"],
@@ -11206,7 +11472,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["NET 2012"]			"appearance": { "color": "#00A76D"},
+			"compatibleTrackTypes": ["NET 2012"],
+			"appearance": { "color": "#00A76D"},
 			"isFixed": false,
 			"location": {
 				"city": ["Karlsruhe"],
@@ -11248,7 +11515,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Metropolis (SYD)"]			"appearance": { "color": "#168388"},
+			"compatibleTrackTypes": ["Metropolis (SYD)"],
+			"appearance": { "color": "#168388"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11290,7 +11558,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Inspiro (SYD)"]			"appearance": { "color": "#199296"},
+			"compatibleTrackTypes": ["Inspiro (SYD)"],
+			"appearance": { "color": "#199296"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11332,7 +11601,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["K Sets (SYD)"]			"appearance": { "color": "#F99D1C"},
+			"compatibleTrackTypes": ["K Sets (SYD)"],
+			"appearance": { "color": "#F99D1C"},
 			"isFixed": false,
 			"location": {
 				"city": ["Generic"],
@@ -11374,7 +11644,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["T Sets (SYD)"]			"appearance": { "color": "#C4258F"},
+			"compatibleTrackTypes": ["T Sets (SYD)"],
+			"appearance": { "color": "#C4258F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11416,7 +11687,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["M Sets (SYD)"]			"appearance": { "color": "#0098CD"},
+			"compatibleTrackTypes": ["M Sets (SYD)"],
+			"appearance": { "color": "#0098CD"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11458,7 +11730,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["H Sets (NSW)"]			"appearance": { "color": "#D11F2F"},
+			"compatibleTrackTypes": ["H Sets (NSW)"],
+			"appearance": { "color": "#D11F2F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11500,7 +11773,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["A/B Sets (SYD)"]			"appearance": { "color": "#6F818E"},
+			"compatibleTrackTypes": ["A/B Sets (SYD)"],
+			"appearance": { "color": "#6F818E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11542,7 +11816,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["D Sets (NSW)"]			"appearance": { "color": "#005AA3"},
+			"compatibleTrackTypes": ["D Sets (NSW)"],
+			"appearance": { "color": "#005AA3"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11584,7 +11859,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["R Sets (NSW)"]			"appearance": { "color": "#D11F2F"},
+			"compatibleTrackTypes": ["R Sets (NSW)"],
+			"appearance": { "color": "#D11F2F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11626,7 +11902,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["N Sets (NSW)"]			"appearance": { "color": "#008846"},
+			"compatibleTrackTypes": ["N Sets (NSW)"],
+			"appearance": { "color": "#008846"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11668,7 +11945,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["J Sets (NSW)"]			"appearance": { "color": "#833134"},
+			"compatibleTrackTypes": ["J Sets (NSW)"],
+			"appearance": { "color": "#833134"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11710,7 +11988,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Urbos 100 (SYD)"]			"appearance": { "color": "#239847"},
+			"compatibleTrackTypes": ["Urbos 100 (SYD)"],
+			"appearance": { "color": "#239847"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sydney"],
@@ -11752,7 +12031,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Metro E (SAO)"]			"appearance": { "color": "#894c95"},
+			"compatibleTrackTypes": ["Metro E (SAO)"],
+			"appearance": { "color": "#894c95"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -11794,7 +12074,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Metro G (SAO)"]			"appearance": { "color": "#58954c"},
+			"compatibleTrackTypes": ["Metro G (SAO)"],
+			"appearance": { "color": "#58954c"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -11836,7 +12117,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Metro H (SAO)"]			"appearance": { "color": "#5ce92a"},
+			"compatibleTrackTypes": ["Metro H (SAO)"],
+			"appearance": { "color": "#5ce92a"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -11878,7 +12160,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Metro I (SAO)"]			"appearance": { "color": "#b62ae9"},
+			"compatibleTrackTypes": ["Metro I (SAO)"],
+			"appearance": { "color": "#b62ae9"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -11920,7 +12203,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Metro J (SAO)"]			"appearance": { "color": "#db7252"},
+			"compatibleTrackTypes": ["Metro J (SAO)"],
+			"appearance": { "color": "#db7252"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -11962,7 +12246,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Metro K (SAO)"]			"appearance": { "color": "#52bbdb"},
+			"compatibleTrackTypes": ["Metro K (SAO)"],
+			"appearance": { "color": "#52bbdb"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -12004,7 +12289,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Metro L (SAO)"]			"appearance": { "color": "#55aeef"},
+			"compatibleTrackTypes": ["Metro L (SAO)"],
+			"appearance": { "color": "#55aeef"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -12046,7 +12332,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["ViaQuatro Hyundai EMU"]			"appearance": { "color": "#FFD400"},
+			"compatibleTrackTypes": ["ViaQuatro Hyundai EMU"],
+			"appearance": { "color": "#FFD400"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -12088,7 +12375,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Metro F (SAO)"]			"appearance": { "color": "#ef9555"},
+			"compatibleTrackTypes": ["Metro F (SAO)"],
+			"appearance": { "color": "#ef9555"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -12130,7 +12418,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.80
 			},
-			"compatibleTrackTypes": ["Metro P (SAO)"]			"appearance": { "color": "#794E9F"},
+			"compatibleTrackTypes": ["Metro P (SAO)"],
+			"appearance": { "color": "#794E9F"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -12172,7 +12461,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Series 2070 (SAO)"]			"appearance": { "color": "#0A1F79"},
+			"compatibleTrackTypes": ["Series 2070 (SAO)"],
+			"appearance": { "color": "#0A1F79"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -12214,7 +12504,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Series 7000 (SAO)"]			"appearance": { "color": "#9E9E94"},
+			"compatibleTrackTypes": ["Series 7000 (SAO)"],
+			"appearance": { "color": "#9E9E94"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -12256,7 +12547,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Series 8000 (SAO)"]			"appearance": { "color": "#F04D22"},
+			"compatibleTrackTypes": ["Series 8000 (SAO)"],
+			"appearance": { "color": "#F04D22"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -12298,7 +12590,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Series 8500 (SAO)"]			"appearance": { "color": "#007C8E"},
+			"compatibleTrackTypes": ["Series 8500 (SAO)"],
+			"appearance": { "color": "#007C8E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -12340,7 +12633,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Series 9000 (SAO)"]			"appearance": { "color": "#00A88E"},
+			"compatibleTrackTypes": ["Series 9000 (SAO)"],
+			"appearance": { "color": "#00A88E"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
@@ -12382,7 +12676,8 @@
 				"AT_GRADE": 0.30,
 				"ELEVATED": 0.90
 			},
-			"compatibleTrackTypes": ["Series 9500 (SAO)"]			"appearance": { "color": "#9F1766"},
+			"compatibleTrackTypes": ["Series 9500 (SAO)"],
+			"appearance": { "color": "#9F1766"},
 			"isFixed": false,
 			"location": {
 				"city": ["Sao Paulo"],
