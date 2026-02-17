@@ -31,8 +31,8 @@ class trainClass:
         self.trainWidth = float(n)
         self.minStationLength = round(self.carLength * self.maxCars)+3
         self.maxStationLength = int(o)
-        if self.maxStationLength <= self.minStationLength:
-            self.maxStationLength = max(round(self.minStationLength*1.05),self.minStationLength+5)
+        if self.maxStationLength <= (self.minStationLength+10):
+            self.maxStationLength = max(round(self.minStationLength*1.05),self.minStationLength+10)
             print("Your max station length for train "+self.id+" is impossible, (Min: " + str(self.minStationLength) + "), corrected to: "+str(self.maxStationLength))
         self.carCost = int(p)
         self.trainOperationalCostPerHour = int(w)
@@ -84,17 +84,17 @@ class config_maker:
         j.write("\t\t\t\t\"AT_GRADE\": "+str(train.mult[3])+",\n")
         j.write("\t\t\t\t\"ELEVATED\": "+str(train.mult[4])+"\n")
         j.write("\t\t\t},\n")
-        # j.write("\t\t\t\"compatibleTrackTypes\": [\""+str(train.id)+"\"]")
-        j.write("\t\t\t\"compatibleTrackTypes\": [\""+str(train.id)+"\", ")
-        i = 0
-        for c in train.track_types:
-            i += 1
-            j.write("\""+c)
-            if i < len(train.track_types):
-                j.write("\",")
-            else:
-                j.write("\"")
-        j.write("],\n")
+        j.write("\t\t\t\"compatibleTrackTypes\": [\""+str(train.id)+"\"]")
+        # j.write("\t\t\t\"compatibleTrackTypes\": [\""+str(train.id)+"\", ")
+        # i = 0
+        # for c in train.track_types:
+        #     i += 1
+        #     j.write("\""+c)
+        #     if i < len(train.track_types):
+        #         j.write("\",")
+        #     else:
+        #         j.write("\"")
+        # j.write("],\n")
         j.write("\t\t\t\"appearance\": { \"color\": \""+str(train.color)+"\"},\n")
         j.write("\t\t\t\"isFixed\": false,\n")
         j.write("\t\t\t\"location\": {\n")
