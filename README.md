@@ -2,6 +2,10 @@ This is a train pack for Subway Builder which currently adds 300 new trains from
 
 To install, simply download the folder and put it in the mods folder. Make sure to also install addTrains.
 
+0.2.1 Patch Notes:
+- Rebalanced pricing around the base game metro! Now everything should be substantially cheaper to build
+- Fixed some rubber metros not having rubber prices
+
 0.2.0 Patch Notes:
 - Reached 300 trains!
 - Fixed the MP14 having the train lengths swapped between the auto and non auto versions.
