@@ -33,7 +33,7 @@ class trainClass:
         self.maxStationLength = int(o)
         if self.maxStationLength <= (self.minStationLength+10):
             self.maxStationLength = max(round(self.minStationLength*1.05),self.minStationLength+10)
-            print("Your max station length for train "+self.id+" is impossible, (Min: " + str(self.minStationLength) + "), corrected to: "+str(self.maxStationLength))
+            print("Your max station length for train "+self.id+" is impossible, (Min: " + str(self.minStationLength+10) + "), corrected to: "+str(self.maxStationLength))
         self.carCost = int(p)
         self.trainOperationalCostPerHour = int(w)
         self.carOperationalCostPerHour = int(x)
