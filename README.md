@@ -1,6 +1,13 @@
-This is a train pack for Subway Builder which currently adds 300 new trains from across the world to Subway Builder using [addTrains](https://github.com/mhmoeller/subwaybuilder-addtrains/tree/V1.0-rc) by mhmoller. Lookup Spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/1-MS_a7KJlQe3AjBkb6nC7ne4Dhnabtay2W16JrEzVyo/edit?usp=sharing)
+This is a train pack for Subway Builder which currently adds 309 new trains from across the world to Subway Builder using [addTrains](https://github.com/mhmoeller/subwaybuilder-addtrains/tree/V1.0-rc) by mhmoller. Lookup Spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/1-MS_a7KJlQe3AjBkb6nC7ne4Dhnabtay2W16JrEzVyo/edit?usp=sharing)
 
 To install, simply download the folder and put it in the mods folder. Make sure to also install addTrains.
+
+0.3 Patch Notes:
+- Reworked the track compatibility system for implementation when the game allows me to
+- Added a few more trains (9)
+- Added necessary information for the beta to work
+- Fixed description issues caused by spreadsheet malpractice on my part.
+
 
 0.2.1 Patch Notes:
 - Rebalanced pricing around the base game metro! Now everything should be substantially cheaper to build

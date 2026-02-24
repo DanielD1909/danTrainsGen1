@@ -6,46 +6,60 @@ global trainList
 trainList = dict()
 
 class trackClass:
-    def __init__(self, d,q,r,s,t,c,ad,u):
-        self.type = c
-        self.cat = ad
-        self.name = d
-        self.canCrossRoads = t
-        self.maxSpeedLocalStation = float(u)
-        self.baseTrackCost = int(q)
-        self.baseStationCost = int(r)
-        self.scissorsCrossoverCost = int(s)
+    def __init__(self, a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r):
+        self.name = a
+        self.id = b
+        self.baseTrackCost = int(d)
+        self.baseStationCost = int(e)
+        self.scissorsCrossoverCost = int(f)
+        self.parallelTrackSpacing = float(p)
+        self.trackClearance = float(q)
+        self.mult = [g,h,i,j,k]
 
 class trainClass:
-    def __init__(self, b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,aa,ab,ac,ad,ae,af,ag):
+    def __init__(self, a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,aa,ab,ac,ad,ae,af,ag,ah,ai,aj,ak,al,am,an,ao,ap,aq,ar,AS,at,au,av,aw,ax,ay,az,ba):
         self.id = b
-        self.track_types = d.split(",")
-        self.maxSpeed = float(f)
-        self.maxAcceleration = float(g)
-        self.maxDeceleration = float(h)
-        self.capacityPerCar = int(i)
-        self.minCars = int(j)
-        self.maxCars = int(k)
-        self.carsPerCarSet = int(l)
-        self.carLength = float(m)
-        self.trainWidth = float(n)
-        self.minStationLength = round(self.carLength * self.maxCars)+3
-        self.maxStationLength = int(o)
-        if self.maxStationLength <= (self.minStationLength+10):
-            self.maxStationLength = max(round(self.minStationLength*1.05),self.minStationLength+10)
-            print("Your max station length for train "+self.id+" is impossible, (Min: " + str(self.minStationLength+10) + "), corrected to: "+str(self.maxStationLength))
-        self.carCost = int(p)
-        self.trainOperationalCostPerHour = int(w)
-        self.carOperationalCostPerHour = int(x)
-        self.color = y
-        if not self.track_types[0] in trackList:
-            trackList.update({self.track_types[0]:trackClass(self.track_types[0],q,r,s,t,c,ad,u)})
-        self.track = trackList[self.track_types[0]]
-        self.desc = e
+        self.primary_track_id = ba
+        self.track_types = m.split(",")
+        self.maxSpeed = float(e)
+        self.maxAcceleration = float(f)
+        self.maxDeceleration = float(g)
+        self.capacityPerCar = int(ae)
+        self.minCars = int(ab)
+        self.maxCars = int(ac)
+        self.carsPerCarSet = int(ad)
+        self.carLength = float(af)
+        self.trainWidth = float(ag)
+        self.minStationLength = int(y)
+        self.maxStationLength = int(z)
+        if self.maxStationLength <= (self.minStationLength+5):
+            self.maxStationLength = max(round(self.minStationLength*1.05),self.minStationLength+5)
+            print("Your max station length for train "+self.id+" is impossible, (Min: " + str(self.minStationLength+5) + "), corrected to: "+str(self.maxStationLength))
+        self.carCost = int(ah)
+        self.trainOperationalCostPerHour = float(ao)
+        self.carOperationalCostPerHour = float(ap)
+        self.color = AS
+        self.desc = ar
         self.type = c
-        self.mult = z.split("|")
-        self.loc = [ae.split(", "),af.split(", "),ag.split(", ")]
+        self.mult = aq.split("|")
+        self.loc = [ay.split(", "),az.split(", "),ax.split(", ")]
         self.manufacturer = ac.split(",")
+        self.minTurnRadius = int(r)
+        self.minStationTurnRadius = int(w)
+        self.maxSlopePercentage = float(q)
+        self.maxLateralAcceleration = float(o)
+        self.stopTimeSeconds = int(x)
+        self.maxSpeedLocalStation = float(aa)
+        self.primary_track = trackList[self.primary_track_id]
+        self.allowAtGradeRoadCrossing = p
+        
+        # temporary aka until tracks separated from trains
+        self.baseTrackCost = int(ak)
+        self.baseStationCost = int(al)
+        self.scissorsCrossoverCost = int(am)
+        self.parallelTrackSpacing = float(u)
+        self.trackClearance = float(v)
+        
             
         
 
@@ -56,12 +70,11 @@ class config_maker:
         j.write("\t\t\t\"name\": \""+str(train.id)+"\",\n")
         j.write("\t\t\t\"description\": \""+str(train.desc)+"\",\n")
         #print(str(train.id)+": "+str(train.track.canCrossRoads).lower())
-        j.write("\t\t\t\"allowAtGradeRoadCrossing\": "+str(train.track.canCrossRoads).lower()+",\n")
         j.write("\t\t\t\"stats\": {\n")
         j.write("\t\t\t\t\"maxAcceleration\": "+str(train.maxAcceleration)+",\n")
         j.write("\t\t\t\t\"maxDeceleration\": "+str(train.maxDeceleration)+",\n")
         j.write("\t\t\t\t\"maxSpeed\": "+str(train.maxSpeed)+",\n")
-        j.write("\t\t\t\t\"maxSpeedLocalStation\": "+str(train.track.maxSpeedLocalStation)+",\n")
+        j.write("\t\t\t\t\"maxSpeedLocalStation\": "+str(train.maxSpeedLocalStation)+",\n")
         j.write("\t\t\t\t\"capacityPerCar\": "+str(train.capacityPerCar)+",\n")
         j.write("\t\t\t\t\"carLength\": "+str(train.carLength)+",\n")
         j.write("\t\t\t\t\"minCars\": "+str(train.minCars)+",\n")
@@ -71,11 +84,18 @@ class config_maker:
         j.write("\t\t\t\t\"trainWidth\": "+str(train.trainWidth)+",\n")
         j.write("\t\t\t\t\"minStationLength\": "+str(train.minStationLength)+",\n")
         j.write("\t\t\t\t\"maxStationLength\": "+str(train.maxStationLength)+",\n")
-        j.write("\t\t\t\t\"baseTrackCost\": "+str(train.track.baseTrackCost)+",\n")
-        j.write("\t\t\t\t\"baseStationCost\": "+str(train.track.baseStationCost)+",\n")
+        j.write("\t\t\t\t\"baseTrackCost\": "+str(train.baseTrackCost)+",\n")
+        j.write("\t\t\t\t\"baseStationCost\": "+str(train.baseStationCost)+",\n")
         j.write("\t\t\t\t\"trainOperationalCostPerHour\": "+str(train.trainOperationalCostPerHour)+",\n")
         j.write("\t\t\t\t\"carOperationalCostPerHour\": "+str(train.carOperationalCostPerHour)+",\n")
-        j.write("\t\t\t\t\"scissorsCrossoverCost\": "+str(train.track.scissorsCrossoverCost)+",\n")
+        j.write("\t\t\t\t\"scissorsCrossoverCost\": "+str(train.scissorsCrossoverCost)+",\n")
+        j.write("\t\t\t\t\"stopTimeSeconds\": "+str(train.stopTimeSeconds)+",\n")
+        j.write("\t\t\t\t\"parallelTrackSpacing\": "+str(train.parallelTrackSpacing)+",\n")
+        j.write("\t\t\t\t\"trackClearance\": "+str(train.trackClearance)+",\n")
+        j.write("\t\t\t\t\"maxLateralAcceleration\": "+str(train.maxLateralAcceleration)+",\n")
+        j.write("\t\t\t\t\"minTurnRadius\": "+str(train.minTurnRadius)+",\n")
+        j.write("\t\t\t\t\"minStationTurnRadius\": "+str(train.minStationTurnRadius)+",\n")
+        j.write("\t\t\t\t\"maxSlopePercentage\": "+str(train.maxSlopePercentage)+",\n")
         j.write("\t\t\t},\n")
         j.write("\t\t\t\"elevationMultipliers\": {\n")
         j.write("\t\t\t\t\"DEEP_BORE\": "+str(train.mult[0])+",\n")
@@ -139,7 +159,8 @@ class config_maker:
             else:
                 j.write("\"")
         j.write("],\n")
-        j.write("\t\t\t\"tag\": [\""+str(train.type)+"\"]\n")
+        j.write("\t\t\t\"tag\": [\""+str(train.type)+"\"],\n")
+        j.write("\t\t\t\"allowAtGradeRoadCrossing\": "+str(train.allowAtGradeRoadCrossing).lower()+"\n")
         
 
     def run(self,tl):
@@ -174,16 +195,30 @@ class config_maker:
             j.write("\n\n\tsaveDataForAddTrains();\n\tconsole.log('[TrainDataPack] Data pack loaded successfully');")
             j.write("\n})();")
 
+with open('tracks.csv', encoding='utf-8', newline='') as csvfile:
+    tracker = csv.reader(csvfile, delimiter=',', quotechar='\"')
+    next(tracker)
+    next(tracker)
+    i = 2
+    for row in tracker:
+        i += 1
+        print(i)
+        print(row[1])
+        hold = trackClass(row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7],row[8],row[9],row[10],row[11],row[12],row[13],row[14],row[15],row[16],row[17])
+        trackList.update({str(row[1]):hold})
+
 with open('trains.csv', encoding='utf-8', newline='') as csvfile:
     tracker = csv.reader(csvfile, delimiter=',', quotechar='\"')
     next(tracker)
-    i = 0
+    next(tracker)
+    next(tracker)
+    i = 3
     for row in tracker:
         i += 1
-        #print(i)
-        #print(row[0])
+        print(i)
+        print(row[0])
         if row[0] == "TRUE":
-            hold = trainClass(row[1],row[2],row[3],row[4],row[5],row[6],row[7],row[8],row[9],row[10],row[11],row[12],row[13],row[14],row[15],row[16],row[17],row[18],row[19],row[20],row[21],row[22],row[23],row[24],row[25],row[26],row[27],row[28],row[29],row[34],row[35],row[32])
+            hold = trainClass(row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7],row[8],row[9],row[10],row[11],row[12],row[13],row[14],row[15],row[16],row[17],row[18],row[19],row[20],row[21],row[22],row[23],row[24],row[25],row[26],row[27],row[28],row[29],row[30],row[31],row[32],row[33],row[34],row[35],row[36],row[37],row[38],row[39],row[40],row[41],row[42],row[43],row[44],row[45],row[46],row[47],row[48],row[49],row[50],row[51],row[52])
             trainList.update({str(row[1]):hold})
 
 config_maker.run(config_maker,trainList)

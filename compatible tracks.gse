@@ -6,21 +6,21 @@
             ISBLANK(N3),
             IF(
                 EXACT(INDEX(SPLIT(I3,", ",FALSE),1),"none"),
-                JOIN(", ",UNIQUE({QUERY(v3_tracks!$A$2:$Q,"select B where N matches '"&REGEXREPLACE(K3,", ","|")&"' and O matches '"&REGEXREPLACE(L3,", ","|")
-                &"' and C matches '"&REGEXREPLACE(H3,", ","|")&"'",0)
+                JOIN(", ",UNIQUE({IFERROR(QUERY(v3_tracks!$A$2:$Q,"select B where N matches '"&REGEXREPLACE(K3,", ","|")&"' and O matches '"&REGEXREPLACE(L3,", ","|")
+                &"' and C matches '"&REGEXREPLACE(H3,", ","|")&"'",0),"")
                 ;VLOOKUP(D3,v3_tracks!A$2:B,2,FALSE)})),
-                JOIN(", ",UNIQUE({QUERY(v3_tracks!$A$2:$Q,"select B where L matches '"&REGEXREPLACE(I3,", ","|")&"' and M matches '"&REGEXREPLACE(J3,", ","|")
-                &"' and N matches '"&REGEXREPLACE(K3,", ","|")&"' and O matches '"&REGEXREPLACE(L3,", ","|") &"' and C matches '"&REGEXREPLACE(H3,", ","|")&"'",0)
+                JOIN(", ",UNIQUE({IFERROR(QUERY(v3_tracks!$A$2:$Q,"select B where L matches '"&REGEXREPLACE(I3,", ","|")&"' and M matches '"&REGEXREPLACE(J3,", ","|")
+                &"' and N matches '"&REGEXREPLACE(K3,", ","|")&"' and O matches '"&REGEXREPLACE(L3,", ","|") &"' and C matches '"&REGEXREPLACE(H3,", ","|")&"'",0),"")
                 ;VLOOKUP(D3,v3_tracks!A$2:B,2,FALSE)}))
             ),
             IF(
                 EXACT(INDEX(SPLIT(I3,", ",FALSE),1),"none"),
-                JOIN(", ",UNIQUE({QUERY(v3_tracks!$A$2:$Q,"select B where N matches '"&REGEXREPLACE(K3,", ","|")&"' and O matches '"&REGEXREPLACE(L3,", ","|")
-                &"' and C matches '"&REGEXREPLACE(H3,", ","|")&"'",0)
+                JOIN(", ",UNIQUE({IFERROR(QUERY(v3_tracks!$A$2:$Q,"select B where N matches '"&REGEXREPLACE(K3,", ","|")&"' and O matches '"&REGEXREPLACE(L3,", ","|")
+                &"' and C matches '"&REGEXREPLACE(H3,", ","|")&"'",0),"")
                 ;N3
                 ;VLOOKUP(D3,v3_tracks!A$2:B,2,FALSE)})),
-                JOIN(", ",UNIQUE({QUERY(v3_tracks!$A$2:$Q,"select B where L matches '"&REGEXREPLACE(I3,", ","|")&"' and M matches '"&REGEXREPLACE(J3,", ","|")
-                &"' and N matches '"&REGEXREPLACE(K3,", ","|")&"' and O matches '"&REGEXREPLACE(L3,", ","|") &"' and C matches '"&REGEXREPLACE(H3,", ","|")&"'",0)
+                JOIN(", ",UNIQUE({IFERROR(QUERY(v3_tracks!$A$2:$Q,"select B where L matches '"&REGEXREPLACE(I3,", ","|")&"' and M matches '"&REGEXREPLACE(J3,", ","|")
+                &"' and N matches '"&REGEXREPLACE(K3,", ","|")&"' and O matches '"&REGEXREPLACE(L3,", ","|") &"' and C matches '"&REGEXREPLACE(H3,", ","|")&"'",0),"")
                 ;N3
                 ;VLOOKUP(D3,v3_tracks!A$2:B,2,FALSE)}))
             )
