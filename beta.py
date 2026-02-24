@@ -17,7 +17,7 @@ class trackClass:
         self.mult = [g,h,i,j,k]
 
 class trainClass:
-    def __init__(self, a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,aa,ab,ac,ad,ae,af,ag,ah,ai,aj,ak,al,am,an,ao,ap,aq,ar,AS,at,au,av,aw,ax,ay,az,ba):
+    def __init__(self, a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,aa,ab,ac,ad,ae,af,ag,ah,ai,aj,ak,al,am,an,ao,ap,aq,ar,AS,at,au,av,aw,ax,ay,az,ba,bb):
         self.id = b
         self.primary_track_id = ba
         self.track_types = m.split(",")
@@ -40,7 +40,7 @@ class trainClass:
         self.carOperationalCostPerHour = float(ap)
         self.color = AS
         self.desc = ar
-        self.type = c
+        self.type = bb
         self.mult = aq.split("|")
         self.loc = [ay.split(", "),az.split(", "),ax.split(", ")]
         self.manufacturer = ac.split(",")
@@ -218,7 +218,7 @@ with open('trains.csv', encoding='utf-8', newline='') as csvfile:
         print(i)
         print(row[0])
         if row[0] == "TRUE":
-            hold = trainClass(row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7],row[8],row[9],row[10],row[11],row[12],row[13],row[14],row[15],row[16],row[17],row[18],row[19],row[20],row[21],row[22],row[23],row[24],row[25],row[26],row[27],row[28],row[29],row[30],row[31],row[32],row[33],row[34],row[35],row[36],row[37],row[38],row[39],row[40],row[41],row[42],row[43],row[44],row[45],row[46],row[47],row[48],row[49],row[50],row[51],row[52])
+            hold = trainClass(row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7],row[8],row[9],row[10],row[11],row[12],row[13],row[14],row[15],row[16],row[17],row[18],row[19],row[20],row[21],row[22],row[23],row[24],row[25],row[26],row[27],row[28],row[29],row[30],row[31],row[32],row[33],row[34],row[35],row[36],row[37],row[38],row[39],row[40],row[41],row[42],row[43],row[44],row[45],row[46],row[47],row[48],row[49],row[50],row[51],row[52],row[53])
             trainList.update({str(row[1]):hold})
 
 config_maker.run(config_maker,trainList)

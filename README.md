@@ -1,8 +1,10 @@
+FOR THE BETA FOR NOW YOU NEED TO USE [MY BRANCH OF ADD TRAINS](https://github.com/DanielD1909/subwaybuilder-addtrains/tree/V1.0-rc)!
+
 This is a train pack for Subway Builder which currently adds 309 new trains from across the world to Subway Builder using [addTrains](https://github.com/mhmoeller/subwaybuilder-addtrains/tree/V1.0-rc) by mhmoller. Lookup Spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/1-MS_a7KJlQe3AjBkb6nC7ne4Dhnabtay2W16JrEzVyo/edit?usp=sharing)
 
 To install, simply download the folder and put it in the mods folder. Make sure to also install addTrains.
 
-0.3 Patch Notes:
+0.3.0 Patch Notes:
 - Reworked the track compatibility system for implementation when the game allows me to
 - Added a few more trains (9)
 - Added necessary information for the beta to work
