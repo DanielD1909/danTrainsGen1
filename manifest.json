@@ -1,8 +1,8 @@
 {
-    "id": "danield1909.danTrains",
+    "id": "danield1909.danTrainsGen1",
     "name": "Dan Trains",
-    "description": "This is a train pack mod by DanielD1909 which adds a bunch of real trains via addTrains. Currently adds 300 trains.",
-    "version": "0.3.0",
+    "description": "This is an old version of danTrains for usage in porting over to the new version.",
+    "version": "0.3.1",
     "author": {
 		"name": "DanielD1909",
 		"url": "https://github.com/DanielD1909"
